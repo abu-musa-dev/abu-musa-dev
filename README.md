@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there 👋, 👋 Hi, I'm Abu Musa
+#### Frontend Developer | React & Tailwind Expert
+![Frontend Developer | React & Tailwind Expert](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**abu-musa-dev/abu-musa-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m **Abu Musa** – a passionate **Frontend Developer** who loves to create interactive and responsive web experiences. I specialize in **React**, **Tailwind**, and **JavaScript**. I'm always eager to learn and improve my skills to stay ahead in the fast-paced world of web development.
 
-Here are some ideas to get you started:
+If you're interested in working together, feel free to reach out!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ..
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills:   REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
