@@ -2,7 +2,8 @@
 <h3 align="center">A Passionate Frontend Developer from Bangladesh 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=#008000center=true&vCenter=true&width=435&lines=Frontend+Developer+%7C+React+%7C+Tailwind+CSS;Building+Responsive+and+Modern+UI+%F0%9F%9A%80;Transforming+Ideas+into+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=32CD32&center=true&vCenter=true&width=435&lines=Frontend+Developer+%7C+React+%7C+Tailwind+CSS;Building+Responsive+and+Modern+UI+%F0%9F%9A%80;Transforming+Ideas+into+Reality" alt="Typing SVG" />
+
 </p>
 
 ---
