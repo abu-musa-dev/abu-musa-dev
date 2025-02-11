@@ -79,3 +79,9 @@ _"I don’t just build websites, I build experiences!"_ 🚀✨
 
 ## **🔔 Want to Hire Me?**
 ✅ Available for freelance work, collaborations, and open-source contributions! Contact me via **Email** or **LinkedIn**. 🚀
+
+
+
+### 🐍 Contribution Snake  
+![Snake animation](https://github.com/YourGitHubUsername/YourGitHubUsername/blob/output/github-contribution-grid-snake.svg)
+
