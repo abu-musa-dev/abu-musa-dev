@@ -3,15 +3,13 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=32CD32&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+React+%7C+Tailwind+CSS;Building+Responsive+and+Modern+UI+%F0%9F%9A%80;Transforming+Ideas+into+Reality" alt="Typing SVG" />
-
-
 </p>
 
 ---
 
 ### 🛠️ **Tech Stack**
-#### Frontend    
 
+#### 💻 **Frontend Development**
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -20,22 +18,20 @@
   <img src="https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-
-#### Backend & Database  
+#### 🌐 **Backend & Database**
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>  
+</p>
 
-#### Tools & Others  
+#### 🧰 **Tools & Others**
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Photoshop-%23FF61F6.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
 </p>
-
 
 ---
 
@@ -71,5 +67,3 @@ _"I don’t just build websites, I build experiences!"_ 🚀✨
 
 ### **🔔 Want to Hire Me?**
 ✅ Available for freelance work, collaborations, and open-source contributions! Contact me via **Email** or **LinkedIn**.  
-
----
