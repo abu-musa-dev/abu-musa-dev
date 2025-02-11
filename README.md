@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abu Musa</h1>
 <h3 align="center">🚀 A Passionate Frontend Developer | React & Tailwind Expert</h3>
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Tailwind+CSS;Building+User-Friendly+Interfaces;Transforming+Ideas+into+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=800&color=00BFFF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Tailwind+CSS;Building+User-Friendly+Interfaces;Transforming+Ideas+into+Reality" alt="Typing SVG" />
 </p>
-</p>
+
 
 ---
 
