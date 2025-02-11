@@ -55,7 +55,7 @@
 ---
 
 ### 🌍 **Let's Connect!**
-📧 **Email:** [your.email@example.com](mailto:your.email@example.com)  
+📧 **Email:** abumusa.developer@gmail.com(mailto:abumusa.developer@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
 🐦 **Twitter:** [twitter.com/yourprofile](https://twitter.com/yourprofile)  
 🚀 **Portfolio:** [yourportfolio.com](https://yourportfolio.com)  
