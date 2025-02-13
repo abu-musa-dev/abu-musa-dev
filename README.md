@@ -1,10 +1,9 @@
-<h1>align="center">Hi 👋, I'm Abu Musa</h1>
+<h1 align="center">Hi 👋, I'm Abu Musa</h1>
 <h3 align="center">🚀 A Passionate Frontend Developer | React & Tailwind Expert</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=800&color=00BFFF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Tailwind+CSS;Building+User-Friendly+Interfaces;Transforming+Ideas+into+Reality" alt="Typing SVG" />
 </p>
-
 
 ---
 
@@ -18,17 +17,15 @@
 ## 🛠️ Tech Stack
 
 ### 💻 **Frontend Development**
-<div align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/SCSS-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" />
-   <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  
-</div>
-
+  <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
 
 ### 🌐 **Backend & Database**
 <p align="center">
@@ -80,8 +77,7 @@ _"I don’t just build websites, I build experiences!"_ 🚀✨
 ## **🔔 Want to Hire Me?**
 ✅ Available for freelance work, collaborations, and open-source contributions! Contact me via **Email** or **LinkedIn**. 🚀
 
-
-
 ### 🐍 Contribution Snake  
-![Snake animation](https://github.com/YourGitHubUsername/YourGitHubUsername/blob/output/github-contribution-grid-snake.svg)
-
+<p align="center">
+  <img src="https://github.com/YourGitHubUsername/YourGitHubUsername/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+</p>
