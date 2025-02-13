@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abu Musa</h1>
+<h1 align="center"><span style="color:#FF6347;">Hi 👋, I'm Abu Musa</span></h1>
 <h3 align="center">🚀 A Passionate Frontend Developer | React & Tailwind Expert</h3>
 
 <p align="center">
