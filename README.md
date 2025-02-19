@@ -1,7 +1,7 @@
 <h1 align="center">
   <span style="color:#FF6347;">
     Hi 👋, I'm 
-    <span class="animated-number" style="display: inline-block;">Abu Musa</span>
+    <span class="animated-number" style="display: inline-block;"></span>
   </span>
 </h1>
 <h3 align="center">🚀 Passionate Frontend Developer | React & Tailwind Expert</h3>
