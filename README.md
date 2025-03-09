@@ -6,7 +6,7 @@
 
   </span>
 </h1>
-<h1 align="center">🚀 Junior Fullstack Developer"
+<h1 align="center">Frontend Developer"
 </h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=800&color=00BFFF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Tailwind+CSS;Building+User-Friendly+Interfaces;Transforming+Ideas+into+Reality" alt="Typing SVG" />
