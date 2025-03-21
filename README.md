@@ -3,11 +3,9 @@
    <div align="center">
     <img alt="Giphy Sticker" src="https://media2.giphy.com/media/8BDQnNDcocWSnHZLPB/giphy.gif?cid=6c09b952m5nxebw960s0i3somlbepsfystlme2hd20wjgr2q&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" height="250" />
 </div>
-
   </span>
 </h1>
-<h1 align="center">Frontend Developer"
-</h1>
+<h1 align="center">Frontend Developer</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=800&color=00BFFF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Tailwind+CSS;Building+User-Friendly+Interfaces;Transforming+Ideas+into+Reality" alt="Typing SVG" />
 </p>
