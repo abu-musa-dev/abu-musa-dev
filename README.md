@@ -53,13 +53,9 @@ _👉 More projects on my [Portfolio](https://your-portfolio-link.com)_
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abu-musa-dev&show_icons=true&theme=radical" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abu-musa-dev&theme=radical" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abu-musa-dev&layout=compact&theme=radical" />
+  <img width="33%" src="https://github-readme-stats.vercel.app/api?username=abu-musa-dev&show_icons=true&theme=radical" />
+  <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=abu-musa-dev&theme=radical" />
+  <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abu-musa-dev&layout=compact&theme=radical" />
 </p>
 
 ---
