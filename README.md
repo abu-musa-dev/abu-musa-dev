@@ -12,7 +12,7 @@
 - 🛠️ I focus on **building responsive, scalable, and user-friendly web applications**  
 - 🌱 Currently learning: **Next.js**, **TypeScript**, and advanced **React optimization**
 - 🧠 Passionate about solving complex problems and writing clean, maintainable code
-- 📫 Reach me at: **abumusa0740@gmail.com**
+- 📫 Reach me at: **abumusa.developer@gmail.com**
 - ⚡ Fun fact: I enjoy fixing bugs more than writing new features 😄
 
 ---
