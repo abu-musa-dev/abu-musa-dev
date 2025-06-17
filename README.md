@@ -47,7 +47,7 @@ A passionate Full-Stack Developer from Bangladesh 🇧🇩 | Specializing in MER
 |-------------|----------------------------------------------------------|-----------------------------|----------------------------------------------|
 | **NextHire** | A full-featured job portal connecting employers and job seekers with real-time chat and payment integration | React, Node.js, Express, MongoDB, Stripe | [🔗 Visit Site](https://next-hire-web.netlify.app/home) |
 
-👉 More projects available on my [Portfolio](https://your-portfolio-link.com)
+👉 More projects available on my [Portfolio](https://abumusaportfolio.netlify.app/)
 
 ---
 
