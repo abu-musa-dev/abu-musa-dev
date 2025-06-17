@@ -54,7 +54,7 @@ _👉 More projects on my [Portfolio](https://your-portfolio-link.com)_
 
 <p align="center">
   <img width="33%" src="https://github-readme-stats.vercel.app/api?username=abu-musa-dev&show_icons=true&theme=radical" />
-  <img width="36%" src="https://github-readme-streak-stats.herokuapp.com/?user=abu-musa-dev&theme=radical" />
+  <img width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=abu-musa-dev&theme=radical" />
   <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abu-musa-dev&layout=compact&theme=radical" />
 </p>
 
