@@ -29,6 +29,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 #### ⚙️ Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
@@ -37,6 +38,7 @@
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code)
 
 ---
+
 
 ### 💼 Featured Projects
 
