@@ -10,11 +10,11 @@ A passionate Full-Stack Developer from Bangladesh 🇧🇩 | Specializing in MER
 
 ### 🚀 About Me
 
-- 💼 I’m a **Full-Stack JavaScript Developer** specializing in the MERN stack (MongoDB, Express, React, Node.js)  
-- 🛠️ I focus on **building responsive, scalable, and user-friendly web applications** using modern technologies  
-- 🌱 Currently learning: **Next.js**, **TypeScript**, and advanced **React optimization**
-- 🧠 Passionate about solving complex problems, writing clean, maintainable code, and always exploring new technologies
-- 📫 Reach me at: **abumusa.developer@gmail.com**
+- 💼 I’m a **Full-Stack JavaScript Developer** specializing in the MERN stack (MongoDB, Express, React, Node.js).  
+- 🛠️ I build **responsive, scalable, and user-friendly web applications** with clean and maintainable code.  
+- 🌱 Currently deepening my expertise in **Next.js**, **TypeScript**, and advanced **React performance optimization**.  
+- 🧠 Passionate problem solver who loves debugging, optimizing, and learning cutting-edge technologies.  
+- 📫 Reach me at: **[abumusa.developer@gmail.com](mailto:abumusa.developer@gmail.com)**  
 - ⚡ Fun fact: I enjoy **debugging** and **optimizing** more than writing new features 😄
 
 ---
@@ -51,18 +51,28 @@ A passionate Full-Stack Developer from Bangladesh 🇧🇩 | Specializing in MER
 
 ---
 
+### 📝 Project Highlight: NextHire
+
+- Developed a real-time job portal with employer & freelancer dashboards.  
+- Integrated Stripe for secure payment processing and transactions.  
+- Implemented live chat feature for seamless communication between users.  
+- Designed with React and Tailwind CSS for a responsive UI.  
+- Backend built with Node.js, Express, and MongoDB for scalable API services.
+
+---
+
 ### 📊 GitHub Stats
 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=abu-musa-dev&show_icons=true&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api?username=abu-musa-dev&show_icons=true&theme=radical" alt="GitHub stats" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=abu-musa-dev&theme=radical" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=abu-musa-dev&theme=radical" alt="GitHub streak" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abu-musa-dev&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abu-musa-dev&theme=radical&layout=compact" alt="Top languages" />
     </td>
   </tr>
 </table>
@@ -72,16 +82,16 @@ A passionate Full-Stack Developer from Bangladesh 🇧🇩 | Specializing in MER
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-real-link" target="_blank">
+  <a href="https://linkedin.com/in/abumusa" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://facebook.com/abumusaxyz" target="_blank">
+  <a href="https://facebook.com/abumusaxyz" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://github.com/abu-musa-dev" target="_blank">
+  <a href="https://github.com/abu-musa-dev" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://twitter.com/your-twitter-handle" target="_blank">
+  <a href="https://twitter.com/your-twitter-handle" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
@@ -90,10 +100,10 @@ A passionate Full-Stack Developer from Bangladesh 🇧🇩 | Specializing in MER
 
 ### 👨‍💻 My Work Process
 
-- **Collaboration:** I believe in the power of teamwork. Communication with clients and team members is key to building amazing products.
-- **Agile & Iterative:** I work in sprints, focusing on delivering high-quality code while ensuring that users' needs are at the forefront.
-- **Testing & Debugging:** I test rigorously to ensure the product is functional, fast, and bug-free.
-- **Continuous Learning:** I'm always refining my skills, staying up-to-date with industry trends and best practices.
+- **Collaboration:** I believe in the power of teamwork and clear communication with clients & teammates.  
+- **Agile & Iterative:** I deliver in sprints, focusing on user needs and quality code.  
+- **Testing & Debugging:** Rigorous testing to ensure performance and bug-free products.  
+- **Continuous Learning:** Always refining skills and keeping up with industry trends.
 
 ---
 
@@ -108,9 +118,19 @@ A passionate Full-Stack Developer from Bangladesh 🇧🇩 | Specializing in MER
 
 ### 🌟 Why Hire Me?
 
-- **Problem Solver:** I’m passionate about writing clean, efficient code and solving complex problems.
-- **Team Player:** I thrive in collaborative environments and work seamlessly with cross-functional teams.
-- **Adaptable:** Always keen to learn new tools, technologies, and techniques.
+- **Problem Solver:** Writing clean, efficient, and maintainable code is my passion.  
+- **Team Player:** Thrive in collaborative, cross-functional teams.  
+- **Adaptable:** Eager to learn new tools, frameworks, and techniques to deliver the best solutions.
 
 ---
 
+### 📫 Let's Connect!
+
+If you like what you see and want to work together, reach out anytime!  
+**Email:** [abumusa.developer@gmail.com](mailto:abumusa.developer@gmail.com)  
+**LinkedIn:** [linkedin.com/in/abumusa](https://linkedin.com/in/abumusa)  
+**GitHub:** [github.com/abu-musa-dev](https://github.com/abu-musa-dev)
+
+---
+
+Thank you for visiting my profile! 🚀
