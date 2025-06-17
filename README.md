@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abu Musa</h1>
+<h1 align="center" style="color: red;">Hi 👋, I'm Abu Musa</h1>
 <h3 align="center">A passionate MERN Stack Developer from Bangladesh 🇧🇩</h3>
 
 <p align="center">
