@@ -45,7 +45,7 @@ A passionate Full-Stack Developer from Bangladesh 🇧🇩 | Specializing in MER
 
 | Project     | Description                                              | Tech Stack                  | Live Demo / Repo                              |
 |-------------|----------------------------------------------------------|-----------------------------|----------------------------------------------|
-| **NextHire** | A full-featured job portal connecting employers and job seekers with real-time chat and payment integration | React, Node.js, Express, MongoDB, Stripe | [🔗 Visit Site](https://your-next-hire-link.com) |
+| **NextHire** | A full-featured job portal connecting employers and job seekers with real-time chat and payment integration | React, Node.js, Express, MongoDB, Stripe | [🔗 Visit Site](https://next-hire-web.netlify.app/home) |
 | **TaskZen** | Real-time task management tool with authentication and notifications | React, Firebase, Tailwind CSS | [🔗 View Demo](https://your-taskzen-demo.com) |
 
 👉 More projects available on my [Portfolio](https://your-portfolio-link.com)
