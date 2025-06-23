@@ -82,7 +82,7 @@ A passionate Full-Stack Developer from Bangladesh 🇧🇩 | Specializing in MER
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/abumusa" target="_blank" rel="noopener noreferrer">
+  <a href="[https://linkedin.com/in/abumusa](https://www.linkedin.com/in/abumusaxyz/)" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://facebook.com/abumusaxyz" target="_blank" rel="noopener noreferrer">
@@ -91,7 +91,7 @@ A passionate Full-Stack Developer from Bangladesh 🇧🇩 | Specializing in MER
   <a href="https://github.com/abu-musa-dev" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://twitter.com/your-twitter-handle" target="_blank" rel="noopener noreferrer">
+  <a href="[https://twitter.com/your-twitter-handle](https://x.com/abmusaxyz)" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
