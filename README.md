@@ -40,38 +40,24 @@ I specialize in building **high-performance, scalable SaaS applications** using 
 
 #### 👨‍💻 **Trainee Software Engineer (Contractual)**
 **Company:** [JST Services Bangladesh](https://www.jst.com.bd/) | **Location:** Remote 🏠  
-**Duration:** *uly 2025 - October 2025*  <!-- এখানে শেষের মাস বসিয়ে দিন -->
+**Duration:** *July 2025 - October 2025*
 
 > Successfully completed a 3-month paid tenure as a Trainee Engineer. Contributed to live projects, collaborated with the development team, and gained professional experience in full-stack development.
 
 ---
 
 ### 📊 **GitHub Analytics**
-<!-- Stats and Languages Fixed Layout -->
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=abu-musa-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="400" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abu-musa-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="300" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=abu-musa-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abu-musa-dev&theme=tokyonight&hide_border=true" alt="Streak" width="100%" />
-</div>
-
----
-
-### 🏆 **Featured Masterpiece: NextHire**
-**A Next-Gen Job Portal connecting top talent with premium employers.**  
-_Tech Stack: Next.js, Node.js, Express, MongoDB, Stripe, Socket.io_
-
-<div align="left">
-  <a href="https://next-hire-web.netlify.app/home" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://github.com/abu-musa-dev/next-hire-client" target="_blank"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abu-musa-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
+  
+  <br/><br/>
+  
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abu-musa-dev&theme=tokyonight&hide_border=true" alt="Streak" width="98%" />
 </div>
 
 ---
