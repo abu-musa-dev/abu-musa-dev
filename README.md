@@ -1,10 +1,6 @@
 <!-- Banner Image (Optional: You can replace this with a custom banner made in Canva) -->
-div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Abu%20Musa&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20(MERN%20%2B%20Next.js)&descAlignY=60&descAlign=50" alt="Abu Musa Banner" width="100%"/>
-
-  <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Abu+Musa;Full+Stack+Developer;MERN+Stack+Expert;Next.js+Specialist" alt="Typing SVG" />
-  </h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Abu%20Musa&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20.%20MERN%20Stack%20Specialist&descAlignY=55&descAlign=50" alt="Abu Musa Banner" width="100%"/>
 </div>
 
 
