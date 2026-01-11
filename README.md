@@ -23,7 +23,7 @@
 Hi, I'm **Abu Musa**, a results-driven **Full-Stack Developer** from Bangladesh 🇧🇩.  
 I specialize in building **high-performance, scalable SaaS applications** using the MERN stack and Next.js.
 
-- 🔭 **Currently:** Advanced Microservices & Next.js 15.
+- 🔭 **Currently:** Trainee Software Engineer at **[JST Services Bangladesh](https://www.jst.com.bd/)**.
 - 🌱 **Learning:** Docker, Kubernetes, and Cloud Architecture (AWS).
 - ⚡ **Core Strength:** Optimization & Scalable Backend Architecture.
 
@@ -33,6 +33,16 @@ I specialize in building **high-performance, scalable SaaS applications** using 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,redux,tailwind,nodejs,express,mongodb,firebase,prisma,docker,git,github,vscode,postman,figma,vercel&perline=9" alt="My Skills" />
 </div>
+
+---
+
+### 💼 **Professional Experience**
+
+#### 👨‍💻 **Trainee Software Engineer**
+**Company:** [JST Services Bangladesh](https://www.jst.com.bd/) | **Location:** Remote 🏠  
+**Duration:** *Jan 2025 - Present*
+
+> Successfully completed a 3-month paid tenure as a Trainee Engineer. Contributed to live projects, collaborated with the development team, and gained professional experience in full-stack development.
 
 ---
 
