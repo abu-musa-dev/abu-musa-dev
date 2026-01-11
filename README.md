@@ -1,12 +1,13 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Abu%20Musa&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20MERN%20Stack%20Specialist&descAlignY=55&descAlign=50" alt="Abu Musa Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Abu%20Musa&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20MERN%20Stack%20Specialist&descAlignY=55&descAlign=50" alt="Abu Musa Banner" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;MERN+Stack+Expert+%7C+Next.js+Developer;Obsessed+with+Performance+%26+Clean+Code;Turning+Ideas+into+Digital+Reality" alt="Typing SVG" />
   </a>
+
   <br/>
 
   <!-- Social Badges -->
@@ -19,19 +20,24 @@
 ---
 
 ### 🚀 **About Me**
-👋 Hi! I'm **Abu Musa**, a results-driven **Full-Stack Developer** from Bangladesh 🇧🇩. I specialize in building **high-performance, scalable SaaS applications** using the MERN stack and Next.js. I focus on writing clean, maintainable, and efficient code.
+👋 Hi there! I'm **Abu Musa**, a results-driven **Full-Stack Developer** from Bangladesh 🇧🇩. I specialize in building **high-performance, scalable SaaS applications** using the MERN stack and Next.js.
 
-- 🔭 **Focus:** Scalable Backend Architecture & Frontend Optimization.
-- 🌱 **Current Learning:** Cloud Infrastructure (AWS) & DevOps (Docker, K8s).
-- ⚡ **Goal:** Turning complex business ideas into seamless digital experiences.
+- 🔭 **Currently:** Open for new opportunities & contributing to Open Source.
+- 🌱 **Learning:** Cloud Architecture (AWS), Docker & Kubernetes for DevOps.
+- ⚡ **Core Strength:** Backend Optimization, Database Design & Scalable Architecture.
 
 ---
 
 ### 🛠️ **Technical Arsenal**
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,redux,ts,nodejs,express,mongodb,prisma,firebase,tailwind,docker,git,github,vscode,postman,vercel,linux&perline=9" alt="My Skills" />
-</div>
+**🌐 Frontend & Styling**
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+
+**⚙️ Backend & Database**
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+
+**🧰 Tools & DevOps**
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
 ---
 
@@ -39,18 +45,18 @@
 
 #### **👨‍💻 Trainee Software Engineer (Contractual)**
 **[JST Services Bangladesh](https://www.jst.com.bd/)** | *July 2025 - October 2025*
-- 🚀 Contributed to full-cycle development of live web applications.
-- 🤝 Collaborated with senior engineers to implement robust features and fix critical bugs.
-- ⚡ Optimized UI/UX components for better performance and user engagement.
+- 🚀 Contributed to high-traffic live projects using React and Node.js.
+- 🤝 Collaborated with development teams to build professional-grade features.
+- ⚡ Focused on clean code practices and performance optimization.
+
+---
 
 ---
 
 ### 🤝 **Why Work With Me?**
 | **Collaborative** | **Agile Mindset** | **Quality First** |
 | :--- | :--- | :--- |
-| Clear communication and team-first attitude. | Comfortable with fast-paced sprint cycles. | Always delivering clean and well-documented code. |
-
-<br/>
+| Focus on clear communication and team synergy. | Proficient in Sprint planning & rapid iteration. | Committed to clean, documented, and maintainable code. |
 
 <div align="center">
   <h3>📫 Let's Build Something Amazing Together!</h3>
