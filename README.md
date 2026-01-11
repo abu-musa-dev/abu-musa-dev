@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Abu%20Musa&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20|%20MERN%20%26%20Next.js%20Expert&descAlignY=55&descAlign=50" alt="Abu Musa Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Abu%20Musa&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20.%20MERN%20Stack%20Specialist&descAlignY=55&descAlign=50" alt="Abu Musa Banner" width="100%"/>
 </div>
 
 <div align="center">
