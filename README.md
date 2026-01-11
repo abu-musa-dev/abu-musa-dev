@@ -1,6 +1,6 @@
 <!-- Banner Image (Optional: You can replace this with a custom banner made in Canva) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=250&section=header&text=Abu%20Musa&fontSize=80&fontAlignY=40&desc=Building%20Scalable%20SaaS%20Applications&descAlignY=65&descAlign=50&animation=twinkling" alt="Abu Musa Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Abu%20Musa&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20(MERN%20%2B%20Next.js)&descAlignY=60&descAlign=50" alt="Abu Musa Banner" width="100%"/>
 </div>
 
 <div align="center">
