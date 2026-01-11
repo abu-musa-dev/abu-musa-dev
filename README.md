@@ -74,11 +74,18 @@ _Tech Stack: Next.js, Node.js, Express, MongoDB, Stripe, Socket.io_
 ### 📊 **GitHub Analytics**
 
 <div align="center">
+  <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abu-musa-dev&theme=tokyonight&hide_border=true" alt="Streak" />
+  
   <br/><br/>
+
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=abu-musa-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abu-musa-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" height="180" />
-</div>
+  
+  <!-- Top Languages (Fixed) -->
+  <!-- layout=compact সরিয়ে সাধারণ ভিউ দেওয়া হয়েছে যা সবসময় কাজ করে -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abu-musa-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Languages" height="180" />
+</div>>
 
 <!-- Contribution Snake Animation -->
 <!-- Note: This requires a GitHub Action to be set up in your repository to work perfectly -->
