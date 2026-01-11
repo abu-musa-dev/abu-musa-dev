@@ -11,10 +11,11 @@
   <br/>
 
   <!-- Social Badges -->
-  <a href="https://linkedin.com/in/abumusaxyz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/abu-musa-dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:abumusa.developer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://abumusaportfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio"/></a>
+    <a href="https://abumusaportfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio"/></a>
+    <a href="mailto:abumusa.developer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://github.com/abu-musa-dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="https://linkedin.com/in/abumusaxyz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
 </div>
 
 ---
@@ -43,34 +44,6 @@ I specialize in building **high-performance, scalable SaaS applications** using 
 **Duration:** *July 2025 - October 2025*
 
 > Successfully completed a 3-month paid tenure as a Trainee Engineer. Contributed to live projects, collaborated with the development team, and gained professional experience in full-stack development.
-
----
-
-### 📊 **GitHub Analytics**
-<div align="center">
-
-  <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=abu-musa-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"
-    width="48%"
-  />
-
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abu-musa-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=1800"
-    width="40%"
-  />
-
-  <br/><br/>
-
-  <!-- GitHub Streak -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=abu-musa-dev&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
-    width="90%"
-  />
-
-</div>
-
 
 ---
 
