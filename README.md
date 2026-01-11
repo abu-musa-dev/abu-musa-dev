@@ -48,17 +48,29 @@ I specialize in building **high-performance, scalable SaaS applications** using 
 
 ### 📊 **GitHub Analytics**
 <div align="center">
+
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=abu-musa-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
-  
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=abu-musa-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"
+    width="48%"
+  />
+
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abu-musa-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
-  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abu-musa-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=1800"
+    width="40%"
+  />
+
   <br/><br/>
-  
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abu-musa-dev&theme=tokyonight&hide_border=true" alt="Streak" width="98%" />
+
+  <!-- GitHub Streak -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=abu-musa-dev&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
+    width="90%"
+  />
+
 </div>
+
 
 ---
 
