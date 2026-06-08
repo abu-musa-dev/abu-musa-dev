@@ -12,7 +12,7 @@
 
   <!-- Social Badges -->
   <a href="https://abu-musa.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio"/></a>
-  <a href="https://linkedin.com/in/abumusaxyz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/abu-musa-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:abumusa.developer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/abu-musa-dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </div>
@@ -22,9 +22,9 @@
 ### 🚀 **About Me**
 👋 Hi there! I'm **Abu Musa**, a results-driven **Full-Stack Developer** from Bangladesh 🇧🇩. I specialize in building **high-performance, scalable SaaS applications** using the MERN stack and Next.js.
 
-- 🔭 **Currently:** Open for new opportunities & contributing to Open Source.
-- 🌱 **Learning:** Cloud Architecture (AWS), Docker & Kubernetes for DevOps.
-- ⚡ **Core Strength:** Backend Optimization, Database Design & Scalable Architecture.
+- 🔭 **Currently:** Open for new opportunities & contributing to Open Source projects.
+- 🌱 **Learning:** Cloud Architecture (AWS), Docker & Kubernetes for DevOps practices.
+- ⚡ **Core Strength:** Backend Optimization, Database Schema Design & Scalable Architecture.
 
 ---
 
@@ -53,27 +53,25 @@
 
 ---
 
-
 ### 💼 **Professional Experience**
 
 #### **👨‍💻 Trainee Software Engineer (Contractual)**
 **[JST Services Bangladesh](https://www.jst.com.bd/)** | *July 2025 - October 2025*
-- 🚀 Contributed to high-traffic live projects using React and Node.js.
-- 🤝 Collaborated with development teams to build professional-grade features.
-- ⚡ Focused on clean code practices and performance optimization.
-
----
+- 🚀 Assisted in implementing and maintaining React and Node.js components for active client projects.
+- 🤝 Collaborated with engineering teams to integrate UI components with RESTful APIs.
+- ⚡ Applied clean-code principles and optimized frontend assets to improve overall performance.
 
 ---
 
 ### 🤝 **Why Work With Me?**
 | **Collaborative** | **Agile Mindset** | **Quality First** |
 | :--- | :--- | :--- |
-| Focus on clear communication and team synergy. | Proficient in Sprint planning & rapid iteration. | Committed to clean, documented, and maintainable code. |
+| Focus on clear communication and cross-functional team synergy. | Experienced with Sprint planning, reviews, and rapid iteration cycles. | Committed to writing structured, documented, and maintainable code. |
 
 <div align="center">
   <h3>📫 Let's Build Something Amazing Together!</h3>
   <a href="mailto:abumusa.developer@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-36BCF7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abu-musa-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=abu-musa-dev&color=36BCF7&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
