@@ -1,101 +1,281 @@
+<!-- Professional GitHub Profile README -->
 
-<!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Abu%20Musa&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20MERN%20Stack%20Specialist&descAlignY=55&descAlign=50" alt="Abu Musa Banner" width="100%"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:ECFDF5,50:10B981,100:064E3B&height=260&section=header&text=Abu%20Musa&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Open%20to%20USA%20Remote%20Roles&descSize=18&descAlignY=55&descAlign=50" 
+    alt="Abu Musa GitHub Banner" 
+    width="100%"
+  />
 </div>
 
 <div align="center">
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;MERN+Stack+Expert+%7C+Next.js+Developer;Obsessed+with+Performance+%26+Clean+Code;Turning+Ideas+into+Digital+Reality" alt="Typing SVG" />
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=059669&center=true&vCenter=true&width=760&lines=Full-Stack+Developer+focused+on+clean+web+applications;React.js+%7C+Node.js+%7C+Express.js+%7C+MongoDB;Building+responsive%2C+scalable%2C+and+user-friendly+products;Open+to+USA+Remote+%2F+Global+Opportunities" 
+      alt="Typing SVG" 
+    />
   </a>
 
   <br/>
+  <br/>
 
-  <!-- Social Badges & Resume -->
-  <a href="https://abu-musa.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/abu-musa-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://drive.google.com/file/d/1tUFIPKYr7nKgmwNYK0fO9ctVYwwmQKUv/view" target="_blank"><img src="https://img.shields.io/badge/Resume-36BCF7?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
-  <a href="mailto:abumusa.developer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/abu-musa-dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://abu-musa.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-064E3B?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abu-musa-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-059669?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1tUFIPKYr7nKgmwNYK0fO9ctVYwwmQKUv/view" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-10B981?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
+  </a>
+  <a href="mailto:abumusa.developer@gmail.com">
+    <img src="https://img.shields.io/badge/Email-047857?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/abu-musa-dev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
 </div>
 
 ---
 
-### 🚀 **About Me**
-👋 Hi there! I'm **Abu Musa**, a results-driven **Full-Stack Developer** from Bangladesh 🇧🇩. I specialize in building **high-performance, scalable SaaS applications** using the MERN stack and Next.js.
+## 👋 About Me
 
-- 🔭 **Currently:** Open for new opportunities & contributing to Open Source projects.
-- 🌱 **Learning:** Cloud Architecture (AWS), Docker & Kubernetes for DevOps practices.
-- ⚡ **Core Strength:** Backend Optimization, Database Schema Design & Scalable Architecture.
+Hi, I’m **Abu Musa**, a **Full-Stack Web Developer** from Bangladesh, focused on building clean, responsive, and production-ready web applications.
 
----
+I specialize in the **MERN stack** — **MongoDB, Express.js, React.js, and Node.js** — with hands-on experience in modern frontend development, REST API integration, authentication systems, dashboards, and scalable project structures.
 
-### 🛠️ **Technical Arsenal**
-
-#### **🌐 Frontend & Styling**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-#### **⚙️ Backend & Database**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-#### **🧰 Tools & DevOps**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+I am currently open to **USA remote opportunities**, global freelance projects, contract roles, and full-stack web development collaborations.
 
 ---
 
-### 📂 **Featured Projects**
+## 🎯 Career Focus
 
-#### **1. SaaS Subscription Platform (MERN Stack)**
-*A comprehensive software-as-a-service application featuring subscription billing, secure multi-tenant architecture, and interactive user dashboards.*
-- **Tech Stack:** Next.js, Redux Toolkit, Node.js, Express, MongoDB, Stripe, Tailwind CSS.
-- **Key Features:** Stripe payment gateway integration, JWT authentication, and automated email reporting.
-- [🔗 Live Demo](https://your-project-link.com) | [💻 GitHub Repo](https://github.com/your-username/your-repo-name)
-
-#### **2. Collaborative Task Manager (Real-time)**
-*A real-time workspace collaboration tool enabling teams to manage projects, assign tasks, and communicate via interactive kanban boards.*
-- **Tech Stack:** React.js, Socket.io, Node.js, Express, Prisma, PostgreSQL.
-- **Key Features:** Live drag-and-drop updates, database indexing for fast query performance, and user activity logging.
-- [🔗 Live Demo](https://your-project-link.com) | [💻 GitHub Repo](https://github.com/your-username/your-repo-name)
+- **Target Role:** Full-Stack Developer / MERN Stack Developer / React Developer  
+- **Preferred Work Type:** USA Remote / Global Remote / Contract / Freelance  
+- **Core Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS  
+- **Strengths:** Responsive UI, REST API integration, clean code, dashboard development  
+- **Availability:** Flexible for remote collaboration and international clients  
 
 ---
 
-### 💼 **Professional Experience**
+## 🧠 Core Strengths
 
-#### **👨‍💻 Software Engineer**
-**[Softvenengec Agency](https://your-agency-link.com)** | *2026 - Present*
-- 🚀 Lead full-stack development of client projects, architecting scalable backend APIs and modular frontend systems.
-- ⚡ Develop secure MERN stack web applications using Next.js, Redux, Node.js, and MongoDB, optimizing database query performances.
-- 🤝 Collaborate in Agile sprints with cross-functional teams to deliver production-ready software matching modern web standards.
-
-#### **👨‍💻 Trainee Software Engineer (Contractual)**
-**[JST Services Bangladesh](https://www.jst.com.bd/)** | *July 2024 - October 2024*
-- 🚀 Developed and optimized responsive React components and Node.js backend services, improving frontend modularity and rendering speed.
-- 🤝 Collaborated closely with the engineering team to integrate UI layouts with core RESTful APIs, securing stable data integration.
-- ⚡ Applied clean-code principles and asset optimization workflows, contributing to codebase maintainability and faster application load times.
+- Building responsive and modern frontend interfaces with **React.js**
+- Creating backend APIs using **Node.js** and **Express.js**
+- Working with **MongoDB** database structure and CRUD operations
+- Integrating authentication, protected routes, and dashboard workflows
+- Converting Figma/UI designs into clean and reusable components
+- Writing maintainable, organized, and scalable project structures
+- Communicating clearly with clients and development teams
 
 ---
 
-### 🤝 **Why Work With Me?**
-| **Collaborative** | **Agile Mindset** | **Quality First** |
+## 🛠️ Technical Skills
+
+### Frontend
+
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
+![TypeScript](https://img.shields.io/badge/TypeScript-2563EB?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-059669?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend & Database
+
+![Node.js](https://img.shields.io/badge/Node.js-047857?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-10B981?style=for-the-badge&logo=mongodb&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-064E3B?style=for-the-badge&logo=postman&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-F59E0B?style=for-the-badge&logo=firebase&logoColor=white)
+
+### Tools & Workflow
+
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-F97316?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-059669?style=for-the-badge&logo=netlify&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-A855F7?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📂 Featured Projects
+
+### 1. Developer Portfolio Website
+
+A modern developer portfolio website built to showcase projects, skills, resume, testimonials, and contact information with a clean responsive design.
+
+**Tech Stack:** React.js, Tailwind CSS, JavaScript, EmailJS, Netlify  
+
+**Key Features:**
+
+- Responsive portfolio layout
+- Contact form with email message delivery
+- Modern resume and skills section
+- Project showcase section
+- Clean component-based React structure
+
+[Live Demo](https://abu-musa.netlify.app/) | [GitHub Profile](https://github.com/abu-musa-dev)
+
+---
+
+### 2. MERN Dashboard Application
+
+A full-stack dashboard-style application concept focused on authentication, protected routes, API integration, and dynamic data management.
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS  
+
+**Key Features:**
+
+- JWT-style authentication flow
+- Protected dashboard routes
+- REST API structure
+- MongoDB CRUD operation planning
+- Responsive admin dashboard UI
+
+[GitHub Profile](https://github.com/abu-musa-dev)
+
+---
+
+### 3. Responsive Business Website
+
+A professional business website interface focused on clean UI, mobile-first layout, reusable sections, and modern frontend development practices.
+
+**Tech Stack:** React.js, Tailwind CSS, JavaScript  
+
+**Key Features:**
+
+- Mobile-first responsive design
+- Reusable React components
+- Clean section-based layout
+- Fast and lightweight frontend implementation
+- SEO-friendly content structure
+
+[GitHub Profile](https://github.com/abu-musa-dev)
+
+---
+
+## 💼 Professional Experience
+
+### Web Developer  
+**Softvence IT Ltd** | 2024 - Present  
+
+- Develop and maintain responsive web applications using modern frontend technologies.
+- Convert UI/UX designs into clean, reusable, and production-ready React components.
+- Collaborate with team members to deliver client-focused web solutions.
+- Work on performance improvement, responsive layouts, and clean project structure.
+
+---
+
+### Trainee Software Engineer  
+**JST Services Bangladesh** | July 2024 - October 2024  
+
+- Completed practical training in web development and software engineering workflows.
+- Built responsive components and worked with REST API integrations.
+- Improved understanding of clean code, debugging, Git workflow, and team collaboration.
+- Gained hands-on experience with frontend and backend development practices.
+
+---
+
+### Freelance Web Developer  
+**Global Clients** | 2020 - Present  
+
+- Delivered responsive websites and web applications for clients.
+- Built portfolio websites, landing pages, dashboards, and custom web interfaces.
+- Focused on clear communication, deadline management, and client satisfaction.
+- Worked with React.js, Tailwind CSS, JavaScript, WordPress, and modern frontend tools.
+
+---
+
+## ✅ Why Hire Me?
+
+| Communication | Clean Code | Remote Ready |
 | :--- | :--- | :--- |
-| Focus on clear communication and cross-functional team synergy. | Experienced with Sprint planning, reviews, and rapid iteration cycles. | Committed to writing structured, documented, and maintainable code. |
+| Clear and professional communication with clients and teams. | Focused on readable, reusable, and maintainable code. | Comfortable working with global clients and remote workflows. |
+
+| Problem Solving | UI Accuracy | Growth Mindset |
+| :--- | :--- | :--- |
+| Able to break down problems and build practical solutions. | Strong focus on responsive and pixel-friendly UI implementation. | Continuously improving in full-stack development and modern tools. |
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
-  <h3>📫 Let's Build Something Amazing Together!</h3>
-  <a href="mailto:abumusa.developer@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-36BCF7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/abu-musa-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=abu-musa-dev&color=36BCF7&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=abu-musa-dev&show_icons=true&theme=vue-dark&hide_border=true&title_color=10B981&icon_color=10B981" 
+    alt="Abu Musa GitHub Stats" 
+    height="165"
+  />
+
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=abu-musa-dev&theme=vue-dark&hide_border=true&ring=10B981&fire=10B981&currStreakLabel=10B981" 
+    alt="Abu Musa GitHub Streak" 
+    height="165"
+  />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/abu-musa-dev/abu-musa-dev/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/abu-musa-dev/abu-musa-dev/output/github-contribution-grid-snake.svg"
+    />
+    <img 
+      alt="GitHub Contribution Snake Animation" 
+      src="https://raw.githubusercontent.com/abu-musa-dev/abu-musa-dev/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+
+</div>
+
+---
+
+## 📫 Let’s Connect
+
+I’m open to **USA remote roles**, global freelance projects, contract work, and full-stack web development opportunities.
+
+<div align="center">
+
+  <a href="mailto:abumusa.developer@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-047857?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abu-musa-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-059669?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://abu-musa.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/View_Portfolio-064E3B?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
+  </a>
+
+  <br/>
+  <br/>
+
+  <img 
+    src="https://komarev.com/ghpvc/?username=abu-musa-dev&color=10B981&style=flat-square&label=PROFILE+VIEWS" 
+    alt="Profile Views" 
+  />
+
+</div>
+
+---
+
+<div align="center">
+
+### “Building clean, scalable, and user-focused web applications.”
+
 </div>
