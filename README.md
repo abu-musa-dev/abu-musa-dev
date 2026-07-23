@@ -47,42 +47,46 @@ const abuMusa = {
 
 ## 🛠️ Technical Arsenal
 
-<table width="100%" cellspacing="0" cellpadding="0">
+<table width="100%" cellspacing="0" cellpadding="8">
+  <!-- Row 1: Frontend & Backend -->
   <tr>
-    <td align="center" valign="top" width="33.33%">
-      <h4 align="center">🎨 Frontend & Styling</h4>
-      <hr width="70%"/>
+    <td align="center" valign="top" width="50%">
+      <h4>🎨 Frontend & Styling</h4>
+      <hr width="60%"/>
       <div align="center">
-        <img height="28" width="160" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/><br/>
-        <img height="28" width="160" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><br/>
-        <img height="28" width="160" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/><br/>
-        <img height="28" width="160" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/><br/>
-        <img height="28" width="160" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/><br/>
-        <img height="28" width="160" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+        <p><img height="28" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/></p>
+        <p><img height="28" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></p>
+        <p><img height="28" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/></p>
+        <p><img height="28" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/></p>
+        <p><img height="28" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></p>
+        <p><img height="28" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></p>
       </div>
     </td>
-    <td align="center" valign="top" width="33.33%">
-      <h4 align="center">⚙️ Backend & Database</h4>
-      <hr width="70%"/>
+    <td align="center" valign="top" width="50%">
+      <h4>⚙️ Backend & Database</h4>
+      <hr width="60%"/>
       <div align="center">
-        <img height="28" width="160" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/><br/>
-        <img height="28" width="160" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/><br/>
-        <img height="28" width="160" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/><br/>
-        <img height="28" width="160" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/><br/>
-        <img height="28" width="160" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/><br/>
-        <img height="28" width="160" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+        <p><img height="28" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></p>
+        <p><img height="28" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/></p>
+        <p><img height="28" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></p>
+        <p><img height="28" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/></p>
+        <p><img height="28" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/></p>
+        <p><img height="28" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/></p>
       </div>
     </td>
-    <td align="center" valign="top" width="33.33%">
-      <h4 align="center">🧰 Tools & DevOps</h4>
-      <hr width="70%"/>
+  </tr>
+  <!-- Row 2: Tools & DevOps (Centered Below) -->
+  <tr>
+    <td align="center" valign="top" colspan="2">
+      <h4>🧰 Tools & DevOps</h4>
+      <hr width="30%"/>
       <div align="center">
-        <img height="28" width="160" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/><br/>
-        <img height="28" width="160" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/><br/>
-        <img height="28" width="160" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/><br/>
-        <img height="28" width="160" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/><br/>
-        <img height="28" width="160" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/><br/>
-        <img height="28" width="160" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+        <p><img height="28" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></p>
+        <p><img height="28" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/></p>
+        <p><img height="28" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/></p>
+        <p><img height="28" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/></p>
+        <p><img height="28" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></p>
+        <p><img height="28" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></p>
       </div>
     </td>
   </tr>
