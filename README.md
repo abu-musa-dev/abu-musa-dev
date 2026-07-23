@@ -1,63 +1,26 @@
+
+
+<!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D7377,50:14FFEC,100:0D7377&height=300&section=header&text=Abu%20Musa&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20MERN%20Engineer%20%E2%80%A2%20Building%20for%20US%20%26%20Canada&descAlignY=52&descAlign=50" alt="Abu Musa Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Abu%20Musa&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20MERN%20Stack%20Specialist&descAlignY=55&descAlign=50" alt="Abu Musa Banner" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=0D7377&center=true&vCenter=true&width=700&lines=Full-Stack+MERN+Developer;React+%2B+Node.js+%2B+Express+%2B+MongoDB;Shipping+Production-Ready+Code+Since+2024;Remote-First+%7C+US%2FCanada+Timezone+Overlap" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;MERN+Stack+Expert+%7C+Next.js+Developer;Obsessed+with+Performance+%26+Clean+Code;Turning+Ideas+into+Digital+Reality" alt="Typing SVG" />
   </a>
+
+  <br/>
+
+  <!-- Social Badges & Resume -->
+  <a href="https://abu-musa.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/abu-musa-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://drive.google.com/file/d/1tUFIPKYr7nKgmwNYK0fO9ctVYwwmQKUv/view" target="_blank"><img src="https://img.shields.io/badge/Resume-36BCF7?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
+  <a href="mailto:abumusa.developer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/abu-musa-dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </div>
 
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20HIRE-0D7377?style=for-the-badge&labelColor=0A0A0A"/>
-  <img src="https://img.shields.io/badge/REMOTE-US%20%2F%20CANADA-0D7377?style=for-the-badge&labelColor=0A0A0A"/>
-  <img src="https://img.shields.io/badge/OVERLAP-4%2B%20HRS%20EST%2FPST-0D7377?style=for-the-badge&labelColor=0A0A0A"/>
-</p>
-
-<div align="center">
-  <a href="https://abu-musa.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0D7377?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/abu-musa-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D7377?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://drive.google.com/file/d/1tUFIPKYr7nKgmwNYK0fO9ctVYwwmQKUv/view" target="_blank"><img src="https://img.shields.io/badge/Resume-0D7377?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
-  <a href="mailto:abumusa.developer@gmail.com"><img src="https://img.shields.io/badge/Email-0D7377?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/abu-musa-dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-0D7377?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D7377&height=2&width=100%25"/>
-
-## 🕐 Why Teams in the US & Canada Work With Me
-
-<div align="center">
-<table width="100%">
-  <tr>
-    <td align="center" width="25%">
-      <h3>🇧🇩 → 🇺🇸</h3>
-      <b>4+ hrs daily overlap</b><br/>
-      <sub>with EST / PST hours</sub>
-    </td>
-    <td align="center" width="25%">
-      <h3>⚡ 24 hr</h3>
-      <b>response time</b><br/>
-      <sub>on messages & updates</sub>
-    </td>
-    <td align="center" width="25%">
-      <h3>⭐ 5.0</h3>
-      <b>client rating</b><br/>
-      <sub>Upwork & Fiverr, verified</sub>
-    </td>
-    <td align="center" width="25%">
-      <h3>💬 Fluent</h3>
-      <b>written & spoken English</b><br/>
-      <sub>clear async communication</sub>
-    </td>
-  </tr>
-</table>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D7377&height=2&width=100%25"/>
+---
 
 ## 👋 About Me
 
@@ -206,44 +169,21 @@ export default abuMusa;
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0D7377&height=2&width=100%25"/>
 
-## 🌟 Client Feedback
 
-<table width="100%">
-  <tr>
-    <td width="33%" align="center" valign="top">
-      ⭐⭐⭐⭐⭐<br/><br/>
-      <i>"Delivered ahead of schedule with excellent communication throughout."</i>
-    </td>
-    <td width="33%" align="center" valign="top">
-      ⭐⭐⭐⭐⭐<br/><br/>
-      <i>"Understood our requirements instantly and wrote clean, maintainable code."</i>
-    </td>
-    <td width="33%" align="center" valign="top">
-      ⭐⭐⭐⭐⭐<br/><br/>
-      <i>"Great overlap with our US team hours — felt like an in-house dev."</i>
-    </td>
-  </tr>
-</table>
 
-<p align="center"><sub>— Verified feedback from Upwork & Fiverr clients</sub></p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D7377&height=2&width=100%25"/>
-
-## 📊 GitHub Stats
+### 🤝 **Why Work With Me?**
+| **Collaborative** | **Agile Mindset** | **Quality First** |
+| :--- | :--- | :--- |
+| Focus on clear communication and cross-functional team synergy. | Experienced with Sprint planning, reviews, and rapid iteration cycles. | Committed to writing structured, documented, and maintainable code. |
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abu-musa-dev&show_icons=true&theme=transparent&hide_border=true&title_color=0D7377&icon_color=0D7377&text_color=333333" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abu-musa-dev&theme=transparent&hide_border=true&ring=0D7377&fire=0D7377&currStreakLabel=0D7377" alt="GitHub Streak" height="165"/>
+  <h3>📫 Let's Build Something Amazing Together!</h3>
+  <a href="mailto:abumusa.developer@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-36BCF7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abu-musa-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=abu-musa-dev&color=36BCF7&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abu-musa-dev&theme=react-dark&hide_border=true&bg_color=00000000&color=0D7377&line=0D7377&point=14FFEC" alt="Activity Graph" width="90%"/>
-</div>
 
-<br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D7377,50:14FFEC,100:0D7377&height=140&section=footer"/>
-</div>
-
-<p align="center"><sub>Thanks for stopping by — let's build something great together. 🚀</sub></p>
