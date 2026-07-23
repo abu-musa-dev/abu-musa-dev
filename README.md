@@ -94,19 +94,6 @@ const abuMusa = {
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abu-musa-dev&show_icons=true&theme=transparent&title_color=0D7377&icon_color=0D7377&text_color=ffffff&hide_border=true&count_private=true" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abu-musa-dev&theme=transparent&hide_border=true&background=00000000&ring=0D7377&fire=0D7377&currStreakLabel=0D7377" width="49%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abu-musa-dev&layout=compact&theme=transparent&title_color=0D7377&text_color=ffffff&hide_border=true&langs_count=8" width="55%"/>
-</div>
-
-<br/>
-
 ## 📂 Featured Projects
 
 <div align="center">
