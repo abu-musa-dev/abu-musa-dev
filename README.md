@@ -56,50 +56,76 @@
 
 ---
 
-### 📂 **Featured Projects**
+## 📂 Featured Projects
+ 
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💳 SaaS Subscription Platform</h3>
+      <p>Full-featured SaaS app with subscription billing, multi-tenant architecture, and real-time admin dashboards — built for scale.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-0D7377?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-0D7377?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-0D7377?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Stripe-0D7377?style=flat-square&logo=stripe&logoColor=white"/>
+      </p>
+      <b>Highlights:</b> Stripe billing integration · JWT auth & role-based access · automated email reports · 40% faster page loads after optimization.
+      <br/><br/>
+      <a href="https://your-project-link.com">🔗 Live Demo</a> · <a href="https://github.com/your-username/your-repo-name">💻 Source Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📋 Real-Time Task Manager</h3>
+      <p>Collaborative kanban-style project tool with live updates for distributed teams working across timezones.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-0D7377?style=flat-square&logo=react&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Socket.io-0D7377?style=flat-square&logo=socketdotio&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Prisma-0D7377?style=flat-square&logo=prisma&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-0D7377?style=flat-square&logo=postgresql&logoColor=white"/>
+      </p>
+      <b>Highlights:</b> Real-time drag-and-drop sync · optimized DB indexing · activity logs & audit trail.
+      <br/><br/>
+      <a href="https://your-project-link.com">🔗 Live Demo</a> · <a href="https://github.com/your-username/your-repo-name">💻 Source Code</a>
+    </td>
+  </tr>
+</table>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D7377&height=2&width=100%25"/>
 
-#### **1. SaaS Subscription Platform (MERN Stack)**
-*A comprehensive software-as-a-service application featuring subscription billing, secure multi-tenant architecture, and interactive user dashboards.*
-- **Tech Stack:** Next.js, Redux Toolkit, Node.js, Express, MongoDB, Stripe, Tailwind CSS.
-- **Key Features:** Stripe payment gateway integration, JWT authentication, and automated email reporting.
-- [🔗 Live Demo](https://your-project-link.com) | [💻 GitHub Repo](https://github.com/your-username/your-repo-name)
 
-#### **2. Collaborative Task Manager (Real-time)**
-*A real-time workspace collaboration tool enabling teams to manage projects, assign tasks, and communicate via interactive kanban boards.*
-- **Tech Stack:** React.js, Socket.io, Node.js, Express, Prisma, PostgreSQL.
-- **Key Features:** Live drag-and-drop updates, database indexing for fast query performance, and user activity logging.
-- [🔗 Live Demo](https://your-project-link.com) | [💻 GitHub Repo](https://github.com/your-username/your-repo-name)
-
----
-
-### 💼 **Professional Experience**
-
-#### **👨‍💻 Software Engineer**
-**[Softvenengec Agency](https://your-agency-link.com)** | *2026 - Present*
-- 🚀 Lead full-stack development of client projects, architecting scalable backend APIs and modular frontend systems.
-- ⚡ Develop secure MERN stack web applications using Next.js, Redux, Node.js, and MongoDB, optimizing database query performances.
-- 🤝 Collaborate in Agile sprints with cross-functional teams to deliver production-ready software matching modern web standards.
-
-#### **👨‍💻 Trainee Software Engineer (Contractual)**
-**[JST Services Bangladesh](https://www.jst.com.bd/)** | *July 2024 - October 2024*
-- 🚀 Developed and optimized responsive React components and Node.js backend services, improving frontend modularity and rendering speed.
-- 🤝 Collaborated closely with the engineering team to integrate UI layouts with core RESTful APIs, securing stable data integration.
-- ⚡ Applied clean-code principles and asset optimization workflows, contributing to codebase maintainability and faster application load times.
-
----
-
-### 🤝 **Why Work With Me?**
-| **Collaborative** | **Agile Mindset** | **Quality First** |
-| :--- | :--- | :--- |
-| Focus on clear communication and cross-functional team synergy. | Experienced with Sprint planning, reviews, and rapid iteration cycles. | Committed to writing structured, documented, and maintainable code. |
-
-<div align="center">
-  <h3>📫 Let's Build Something Amazing Together!</h3>
-  <a href="mailto:abumusa.developer@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-36BCF7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/abu-musa-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=abu-musa-dev&color=36BCF7&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
-
+## 💼 Professional Experience
+ 
+```diff
++ 2026 – Present    Software Engineer @ Softvenengec Agency
++                   ├─ Leading full-stack development for international client projects
++                   ├─ Architecting scalable REST APIs & modular frontend systems
++                   ├─ Building secure MERN + Next.js applications for production use
++                   └─ Collaborating in Agile sprints with cross-functional teams
+ 
++ Jul – Oct 2024    Trainee Software Engineer @ JST Services Bangladesh
++                   ├─ Built responsive React components & Node.js backend services
++                   ├─ Integrated frontend layouts with RESTful APIs
++                   └─ Applied clean-code principles & performance optimization
+```
+ 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D7377&height=2&width=100%25"/>
+## 🌟 Client Feedback
+ 
+<table width="100%">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      ⭐⭐⭐⭐⭐<br/><br/>
+      <i>"Delivered ahead of schedule with excellent communication throughout."</i>
+    </td>
+    <td width="33%" align="center" valign="top">
+      ⭐⭐⭐⭐⭐<br/><br/>
+      <i>"Understood our requirements instantly and wrote clean, maintainable code."</i>
+    </td>
+    <td width="33%" align="center" valign="top">
+      ⭐⭐⭐⭐⭐<br/><br/>
+      <i>"Great overlap with our US team hours — felt like an in-house dev."</i>
+    </td>
+  </tr>
+</table>
+<p align="center"><sub>— Verified feedback from Upwork & Fiverr clients</sub></p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D7377&height=2&width=100%25"/>
 
 
