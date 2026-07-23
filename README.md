@@ -100,3 +100,21 @@
                    ├─ Built responsive React components & Node.js backend services
                    ├─ Integrated frontend layouts with RESTful APIs
                    └─ Applied clean-code principles & performance optimization
+🌟 Client Feedback
+<table width="100%">
+<tr>
+<td width="33%" align="left" valign="top">
+⭐⭐⭐⭐⭐<br/><br/>
+<i>"Delivered ahead of schedule with excellent communication throughout."</i>
+</td>
+<td width="33%" align="left" valign="top">
+⭐⭐⭐⭐⭐<br/><br/>
+<i>"Understood our requirements instantly and wrote clean, maintainable code."</i>
+</td>
+<td width="33%" align="left" valign="top">
+⭐⭐⭐⭐⭐<br/><br/>
+<i>"Great overlap with our US team hours — felt like an in-house dev."</i>
+</td>
+</tr>
+</table>
+<p align="left"><sub>— Verified feedback from Upwork & Fiverr clients</sub></p>
