@@ -1,17 +1,16 @@
 <!-- Header Banner -->
-<div align="center">
+<div align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Abu%20Musa&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20MERN%20Stack%20Specialist&descAlignY=55&descAlign=50" alt="Abu Musa Banner" width="100%"/>
 </div>
 
-<div align="center">
+<div align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;MERN+Stack+Expert+%7C+Next.js+Developer;Obsessed+with+Performance+%26+Clean+Code;Turning+Ideas+into+Digital+Reality" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;MERN+Stack+Expert+%7C+Next.js+Developer;Obsessed+with+Performance+%26+Clean+Code;Turning+Ideas+into+Digital+Reality" alt="Typing SVG" />
   </a>
 
   <br/>
 
   <!-- Social Badges & Resume -->
-<div align="center">
   <a href="https://abu-musa.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-12868E?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/></a><a href="https://www.linkedin.com/in/abu-musa-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><a href="https://drive.google.com/file/d/1tUFIPKYr7nKgmwNYK0fO9ctVYwwmQKUv/view" target="_blank"><img src="https://img.shields.io/badge/Resume-36BCF7?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a><a href="mailto:abumusa.developer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a><a href="https://github.com/abu-musa-dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </div>
 
@@ -52,7 +51,7 @@
 
 ## 📂 Featured Projects
 
-<div align="center">
+<div align="left">
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -89,14 +88,14 @@
 
 
 ## 💼 Professional Experience
- 
+
 
  2026 – Present    Software Engineer @ Softvenengec Agency
                    ├─ Leading full-stack development for international client projects
                    ├─ Architecting scalable REST APIs & modular frontend systems
                    ├─ Building secure MERN + Next.js applications for production use
                    └─ Collaborating in Agile sprints with cross-functional teams
- 
+
  Jul – Oct 2024    Trainee Software Engineer @ JST Services Bangladesh
                    ├─ Built responsive React components & Node.js backend services
                    ├─ Integrated frontend layouts with RESTful APIs
@@ -104,18 +103,18 @@
 🌟 Client Feedback
 <table width="100%">
 <tr>
-<td width="33%" align="center" valign="top">
+<td width="33%" align="left" valign="top">
 ⭐⭐⭐⭐⭐<br/><br/>
 <i>"Delivered ahead of schedule with excellent communication throughout."</i>
 </td>
-<td width="33%" align="center" valign="top">
+<td width="33%" align="left" valign="top">
 ⭐⭐⭐⭐⭐<br/><br/>
 <i>"Understood our requirements instantly and wrote clean, maintainable code."</i>
 </td>
-<td width="33%" align="center" valign="top">
+<td width="33%" align="left" valign="top">
 ⭐⭐⭐⭐⭐<br/><br/>
 <i>"Great overlap with our US team hours — felt like an in-house dev."</i>
 </td>
 </tr>
 </table>
-<p align="center"><sub>— Verified feedback from Upwork & Fiverr clients</sub></p>
+<p align="left"><sub>— Verified feedback from Upwork & Fiverr clients</sub></p>
