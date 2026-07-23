@@ -20,32 +20,33 @@
 
 ---
 
-## **About Me**
-Hi there! I'm **Abu Musa**, a results-driven **Full-Stack Developer** from Bangladesh 🇧🇩. I specialize in building **high-performance, scalable SaaS applications** using the MERN stack and Next.js.
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="35" align="center" /> About Me
 
-- **Currently:** Open for new opportunities & contributing to Open Source projects.
-- **Learning:** Cloud Architecture (AWS), Docker & Kubernetes for DevOps practices.
-- **Core Strength:** Backend Optimization, Database Schema Design & Scalable Architecture.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="22" align="center" /> Hi there! I'm **Abu Musa**, a results-driven **Full-Stack Developer** from Bangladesh 🇧🇩. I specialize in building **high-performance, scalable SaaS applications** using the MERN stack and Next.js.
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="20" align="center" /> **Currently:** Open for new opportunities & contributing to Open Source projects.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Seedling.png" width="20" align="center" /> **Learning:** Cloud Architecture (AWS), Docker & Kubernetes for DevOps practices.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/High%20Voltage.png" width="20" align="center" /> **Core Strength:** Backend Optimization, Database Schema Design & Scalable Architecture.
 
 ---
 
-## **Technical Arsenal**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" align="center" /> Technical Arsenal
 
-### **Frontend & Styling**
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24" align="center" /> Frontend & Styling
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-### **Backend & Database**
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="24" align="center" /> Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### **Tools & DevOps**
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="24" align="center" /> Tools & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -54,23 +55,23 @@ Hi there! I'm **Abu Musa**, a results-driven **Full-Stack Developer** from Bangl
 
 ---
 
-## **Featured Projects**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Folder.png" width="35" align="center" /> Featured Projects
 
 ### **1. SaaS Subscription Platform (MERN Stack)**
 *A comprehensive software-as-a-service application featuring subscription billing, secure multi-tenant architecture, and interactive user dashboards.*
 - **Tech Stack:** Next.js, Redux Toolkit, Node.js, Express, MongoDB, Stripe, Tailwind CSS.
 - **Key Features:** Stripe payment gateway integration, JWT authentication, and automated email reporting.
-- [Live Demo](https://your-project-link.com) | [GitHub Repo](https://github.com/your-username/your-repo-name)
+- [🔗 Live Demo](https://your-project-link.com) | [💻 GitHub Repo](https://github.com/your-username/your-repo-name)
 
 ### **2. Collaborative Task Manager (Real-time)**
 *A real-time workspace collaboration tool enabling teams to manage projects, assign tasks, and communicate via interactive kanban boards.*
 - **Tech Stack:** React.js, Socket.io, Node.js, Express, Prisma, PostgreSQL.
 - **Key Features:** Live drag-and-drop updates, database indexing for fast query performance, and user activity logging.
-- [Live Demo](https://your-project-link.com) | [GitHub Repo](https://github.com/your-username/your-repo-name)
+- [🔗 Live Demo](https://your-project-link.com) | [💻 GitHub Repo](https://github.com/your-username/your-repo-name)
 
 ---
 
-## **Professional Experience**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="35" align="center" /> Professional Experience
 
 ### **Software Engineer**
 **[Softvenengec Agency](https://your-agency-link.com)** | *2026 - Present*
@@ -86,7 +87,7 @@ Hi there! I'm **Abu Musa**, a results-driven **Full-Stack Developer** from Bangl
 
 ---
 
-## **Why Work With Me?**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="35" align="center" /> Why Work With Me?
 | **Collaborative** | **Agile Mindset** | **Quality First** |
 | :--- | :--- | :--- |
 | Focus on clear communication and cross-functional team synergy. | Experienced with Sprint planning, reviews, and rapid iteration cycles. | Committed to writing structured, documented, and maintainable code. |
