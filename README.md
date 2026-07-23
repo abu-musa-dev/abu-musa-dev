@@ -66,7 +66,7 @@
       </p>
       <b>Highlights:</b> Stripe billing integration · JWT auth & role-based access · automated email reports · 40% faster page loads after optimization.
       <br/><br/>
-      <a href="https://your-project-link.com">🔗 Live Demo</a> · <a href="https://github.com/your-username/your-repo-name">💻 Source Code</a>
+      <a href="https://your-project-link.com" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-12868E?style=flat-square" alt="Live Demo"/></a> <a href="https://github.com/your-username/your-repo-name" target="_blank"><img src="https://img.shields.io/badge/_Source_Code-20232A?style=flat-square&logo=github&logoColor=white" alt="Source Code"/></a>
     </td>
     <td width="50%" valign="top">
       <h3>📋 Real-Time Task Manager</h3>
