@@ -1,5 +1,3 @@
-
-
 <!-- Header Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Abu%20Musa&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20MERN%20Stack%20Specialist&descAlignY=55&descAlign=50" alt="Abu Musa Banner" width="100%"/>
@@ -13,7 +11,7 @@
   <br/>
 
   <!-- Social Badges & Resume -->
-  <a href="https://abu-musa.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio"/></a>
+  <a href="https://abu-musa.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/abu-musa-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://drive.google.com/file/d/1tUFIPKYr7nKgmwNYK0fO9ctVYwwmQKUv/view" target="_blank"><img src="https://img.shields.io/badge/Resume-36BCF7?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
   <a href="mailto:abumusa.developer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -100,6 +98,3 @@
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=abu-musa-dev&color=36BCF7&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
-
-
-
