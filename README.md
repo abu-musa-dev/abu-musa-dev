@@ -22,155 +22,71 @@
 
 ---
 
-## 👋 About Me
+### 🚀 **About Me**
+👋 Hi there! I'm **Abu Musa**, a results-driven **Full-Stack Developer** from Bangladesh 🇧🇩. I specialize in building **high-performance, scalable SaaS applications** using the MERN stack and Next.js.
 
-I'm a **Full-Stack MERN Developer** based in Bangladesh, building production-grade web applications for startups and businesses across the **US and Canada**. I turn ideas into fast, scalable, and secure products — from database schema design to pixel-perfect UI.
+- 🔭 **Currently:** Open for new opportunities & contributing to Open Source projects.
+- 🌱 **Learning:** Cloud Architecture (AWS), Docker & Kubernetes for DevOps practices.
+- ⚡ **Core Strength:** Backend Optimization, Database Schema Design & Scalable Architecture.
 
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
+---
 
-```javascript
-const abuMusa = {
-  role: "Full-Stack Developer (MERN)",
-  location: "Bangladesh 🇧🇩 → Remote Worldwide",
-  clients: ["USA 🇺🇸", "Canada 🇨🇦"],
+### 🛠️ **Technical Arsenal**
 
-  stack: {
-    frontend: ["React", "Next.js", "TypeScript", "Tailwind"],
-    backend:  ["Node.js", "Express.js", "REST APIs"],
-    database: ["MongoDB", "Mongoose"],
-    tools:    ["Git", "Docker", "Postman", "Vercel"]
-  },
+#### **🌐 Frontend & Styling**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-  focus: "Scalable SaaS apps & high-conversion web platforms",
-  availability: ["Full-time", "Part-time", "Contract"],
-  responseTime: "< 24 hours"
-};
+#### **⚙️ Backend & Database**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-export default abuMusa;
-```
+#### **🧰 Tools & DevOps**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-</td>
-<td width="45%" valign="top">
+---
 
-**What I bring to your team:**
+### 📂 **Featured Projects**
 
-🔭 Currently open to full-time remote roles and long-term freelance contracts with US/Canada companies
+#### **1. SaaS Subscription Platform (MERN Stack)**
+*A comprehensive software-as-a-service application featuring subscription billing, secure multi-tenant architecture, and interactive user dashboards.*
+- **Tech Stack:** Next.js, Redux Toolkit, Node.js, Express, MongoDB, Stripe, Tailwind CSS.
+- **Key Features:** Stripe payment gateway integration, JWT authentication, and automated email reporting.
+- [🔗 Live Demo](https://your-project-link.com) | [💻 GitHub Repo](https://github.com/your-username/your-repo-name)
 
-⚡ Backend architecture, REST API design, database optimization, and clean scalable frontend systems
+#### **2. Collaborative Task Manager (Real-time)**
+*A real-time workspace collaboration tool enabling teams to manage projects, assign tasks, and communicate via interactive kanban boards.*
+- **Tech Stack:** React.js, Socket.io, Node.js, Express, Prisma, PostgreSQL.
+- **Key Features:** Live drag-and-drop updates, database indexing for fast query performance, and user activity logging.
+- [🔗 Live Demo](https://your-project-link.com) | [💻 GitHub Repo](https://github.com/your-username/your-repo-name)
 
-🌱 Actively sharpening AWS, Docker, and CI/CD pipelines for production deployment
+---
 
-🤝 Delivered client projects on Upwork & Fiverr with consistent 5-star communication and on-time delivery
+### 💼 **Professional Experience**
 
-📫 **abumusa.developer@gmail.com**
+#### **👨‍💻 Software Engineer**
+**[Softvenengec Agency](https://your-agency-link.com)** | *2026 - Present*
+- 🚀 Lead full-stack development of client projects, architecting scalable backend APIs and modular frontend systems.
+- ⚡ Develop secure MERN stack web applications using Next.js, Redux, Node.js, and MongoDB, optimizing database query performances.
+- 🤝 Collaborate in Agile sprints with cross-functional teams to deliver production-ready software matching modern web standards.
 
-</td>
-</tr>
-</table>
+#### **👨‍💻 Trainee Software Engineer (Contractual)**
+**[JST Services Bangladesh](https://www.jst.com.bd/)** | *July 2024 - October 2024*
+- 🚀 Developed and optimized responsive React components and Node.js backend services, improving frontend modularity and rendering speed.
+- 🤝 Collaborated closely with the engineering team to integrate UI layouts with core RESTful APIs, securing stable data integration.
+- ⚡ Applied clean-code principles and asset optimization workflows, contributing to codebase maintainability and faster application load times.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D7377&height=2&width=100%25"/>
-
-## 🛠️ Technical Arsenal
-
-<table width="100%">
-<tr>
-<td valign="top" width="33%">
-
-**🌐 Frontend**
-
-![React](https://img.shields.io/badge/React-0D7377?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-0D7377?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D7377?style=flat-square&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-0D7377?style=flat-square&logo=redux&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0D7377?style=flat-square&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0D7377?style=flat-square&logo=framer&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-**⚙️ Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-0D7377?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-0D7377?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D7377?style=flat-square&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-0D7377?style=flat-square&logo=prisma&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-0D7377?style=flat-square&logo=firebase&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-0D7377?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-**🧰 Tools & DevOps**
-
-![Git](https://img.shields.io/badge/GIT-0D7377?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0D7377?style=flat-square&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-0D7377?style=flat-square&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-0D7377?style=flat-square&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-0D7377?style=flat-square&logo=figma&logoColor=white)
-![Webflow](https://img.shields.io/badge/Webflow-0D7377?style=flat-square&logo=webflow&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D7377&height=2&width=100%25"/>
-
-## 📂 Featured Projects
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💳 SaaS Subscription Platform</h3>
-      <p>Full-featured SaaS app with subscription billing, multi-tenant architecture, and real-time admin dashboards — built for scale.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-0D7377?style=flat-square&logo=nextdotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Node.js-0D7377?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-0D7377?style=flat-square&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Stripe-0D7377?style=flat-square&logo=stripe&logoColor=white"/>
-      </p>
-      <b>Highlights:</b> Stripe billing integration · JWT auth & role-based access · automated email reports · 40% faster page loads after optimization.
-      <br/><br/>
-      <a href="https://your-project-link.com">🔗 Live Demo</a> · <a href="https://github.com/your-username/your-repo-name">💻 Source Code</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📋 Real-Time Task Manager</h3>
-      <p>Collaborative kanban-style project tool with live updates for distributed teams working across timezones.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-0D7377?style=flat-square&logo=react&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Socket.io-0D7377?style=flat-square&logo=socketdotio&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Prisma-0D7377?style=flat-square&logo=prisma&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-0D7377?style=flat-square&logo=postgresql&logoColor=white"/>
-      </p>
-      <b>Highlights:</b> Real-time drag-and-drop sync · optimized DB indexing · activity logs & audit trail.
-      <br/><br/>
-      <a href="https://your-project-link.com">🔗 Live Demo</a> · <a href="https://github.com/your-username/your-repo-name">💻 Source Code</a>
-    </td>
-  </tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D7377&height=2&width=100%25"/>
-
-## 💼 Professional Experience
-
-```diff
-+ 2026 – Present    Software Engineer @ Softvenengec Agency
-+                   ├─ Leading full-stack development for international client projects
-+                   ├─ Architecting scalable REST APIs & modular frontend systems
-+                   ├─ Building secure MERN + Next.js applications for production use
-+                   └─ Collaborating in Agile sprints with cross-functional teams
-
-+ Jul – Oct 2024    Trainee Software Engineer @ JST Services Bangladesh
-+                   ├─ Built responsive React components & Node.js backend services
-+                   ├─ Integrated frontend layouts with RESTful APIs
-+                   └─ Applied clean-code principles & performance optimization
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D7377&height=2&width=100%25"/>
-
-
-
+---
 
 ### 🤝 **Why Work With Me?**
 | **Collaborative** | **Agile Mindset** | **Quality First** |
