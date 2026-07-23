@@ -115,34 +115,13 @@ I'm a **Full-Stack MERN Developer** based in Bangladesh, building production-gra
 
 <br/>
 
-<svg width="720" height="260" viewBox="0 0 720 260" xmlns="http://www.w3.org/2000/svg" font-family="JetBrains Mono, Fira Code, Consolas, monospace">
-  <defs>
-    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0B0F0E"/>
-      <stop offset="100%" stop-color="#111817"/>
-    </linearGradient>
-  </defs>
-  <rect width="720" height="260" rx="14" fill="url(#bg2)" stroke="#A4FF00" stroke-opacity="0.35"/>
-  <rect x="0" y="0" width="8" height="260" fill="#A4FF00"/>
+## 💼 Professional Experience
 
-  <text x="34" y="42" font-size="16" font-weight="700" fill="#A4FF00">2026 – Present</text>
-  <text x="200" y="42" font-size="16" fill="#E6EDEC">Software Engineer </text>
-  <text x="342" y="42" font-size="16" fill="#B026FF">@ Softvenengec Agency</text>
+<div align="center">
+  <img src="./assets/professional-experience-card.svg" alt="Abu Musa professional experience" width="100%"/>
+</div>
 
-  <text x="60" y="70" font-size="13.5" fill="#9FB0AD">├─ Leading full-stack development for international client projects</text>
-  <text x="60" y="94" font-size="13.5" fill="#9FB0AD">├─ Architecting scalable REST APIs &amp; modular frontend systems</text>
-  <text x="60" y="118" font-size="13.5" fill="#9FB0AD">├─ Building secure MERN + Next.js applications for production use</text>
-  <text x="60" y="142" font-size="13.5" fill="#9FB0AD">└─ Collaborating in Agile sprints with cross-functional teams</text>
-
-  <line x1="34" y1="168" x2="686" y2="168" stroke="#A4FF00" stroke-opacity="0.2"/>
-
-  <text x="34" y="196" font-size="16" font-weight="700" fill="#A4FF00">Jul – Oct 2024</text>
-  <text x="190" y="196" font-size="16" fill="#E6EDEC">Trainee Software Engineer </text>
-  <text x="410" y="196" font-size="16" fill="#B026FF">@ JST Services Bangladesh</text>
-
-  <text x="60" y="222" font-size="13.5" fill="#9FB0AD">├─ Built responsive React components &amp; Node.js backend services</text>
-  <text x="60" y="246" font-size="13.5" fill="#9FB0AD">└─ Integrated frontend layouts with RESTful APIs, applied clean-code principles</text>
-</svg>
+<br/>
 
 ## 🌟 Client Feedback
 
