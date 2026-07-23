@@ -10,8 +10,9 @@
 
   <br/>
 
-  <!-- Social Badges & Resume -->
-  <a href="https://abu-musa.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-12868E?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/></a> <a href="https://www.linkedin.com/in/abu-musa-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://drive.google.com/file/d/1tUFIPKYr7nKgmwNYK0fO9ctVYwwmQKUv/view" target="_blank"><img src="https://img.shields.io/badge/Resume-36BCF7?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a> <a href="mailto:abumusa.developer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://github.com/abu-musa-dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+ <!-- Social Badges & Resume (With Available for Hire Badge) -->
+<div align="left">
+  <a href="mailto:abumusa.developer@gmail.com"><img src="https://img.shields.io/badge/STATUS-Available_for_Hire-10B981?style=for-the-badge&logo=Checkmark&logoColor=white" alt="Available for Hire"/></a><a href="https://abu-musa.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-12868E?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/></a><a href="https://www.linkedin.com/in/abu-musa-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><a href="https://drive.google.com/file/d/1tUFIPKYr7nKgmwNYK0fO9ctVYwwmQKUv/view" target="_blank"><img src="https://img.shields.io/badge/Resume-36BCF7?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a><a href="mailto:abumusa.developer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a><a href="https://github.com/abu-musa-dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </div>
 
 ### **About Me**
