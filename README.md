@@ -44,6 +44,7 @@ const abuMusa = {
 
 <br/>
 
+
 ## 🛠️ Technical Arsenal
 
 <table width="100%" cellspacing="0" cellpadding="0">
@@ -52,40 +53,42 @@ const abuMusa = {
       <h4 align="center">🎨 Frontend & Styling</h4>
       <hr width="70%"/>
       <div align="center">
-        <img height="22" width="135" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/><br/>
-        <img height="22" width="135" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/><br/>
-        <img height="22" width="135" src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/><br/>
-        <img height="22" width="135" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/><br/>
-        <img height="22" width="135" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/><br/>
-        <img height="22" width="135" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img height="28" width="160" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/><br/>
+        <img height="28" width="160" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><br/>
+        <img height="28" width="160" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/><br/>
+        <img height="28" width="160" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/><br/>
+        <img height="28" width="160" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/><br/>
+        <img height="28" width="160" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
       </div>
     </td>
     <td align="center" valign="top" width="33.33%">
       <h4 align="center">⚙️ Backend & Database</h4>
       <hr width="70%"/>
       <div align="center">
-        <img height="22" width="135" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/><br/>
-        <img height="22" width="135" src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/><br/>
-        <img height="22" width="135" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/><br/>
-        <img height="22" width="135" src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/><br/>
-        <img height="22" width="135" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/><br/>
-        <img height="22" width="135" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img height="28" width="160" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/><br/>
+        <img height="28" width="160" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/><br/>
+        <img height="28" width="160" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/><br/>
+        <img height="28" width="160" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/><br/>
+        <img height="28" width="160" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/><br/>
+        <img height="28" width="160" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
       </div>
     </td>
     <td align="center" valign="top" width="33.33%">
       <h4 align="center">🧰 Tools & DevOps</h4>
       <hr width="70%"/>
       <div align="center">
-        <img height="22" width="135" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/><br/>
-        <img height="22" width="135" src="https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white"/><br/>
-        <img height="22" width="135" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/><br/>
-        <img height="22" width="135" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/><br/>
-        <img height="22" width="135" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/><br/>
-        <img height="22" width="135" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+        <img height="28" width="160" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/><br/>
+        <img height="28" width="160" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/><br/>
+        <img height="28" width="160" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/><br/>
+        <img height="28" width="160" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/><br/>
+        <img height="28" width="160" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/><br/>
+        <img height="28" width="160" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
       </div>
     </td>
   </tr>
 </table>
+
+
 ## 📂 Featured Projects
 
 <div align="center">
