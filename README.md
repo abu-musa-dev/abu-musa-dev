@@ -16,8 +16,6 @@
   <a href="https://github.com/abu-musa-dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
  
 
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=abu-musa-dev&color=0D7377&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <br/>
@@ -177,6 +175,4 @@ Jul – Oct 2024    Trainee Software Engineer @ JST Services Bangladesh
   <a href="https://www.linkedin.com/in/abu-musa-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://abu-musa.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0D7377?style=for-the-badge&logo=react&logoColor=white" /></a>
 
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D7377,100:14FFEC&height=100&section=footer" width="100%"/>
 </div>
