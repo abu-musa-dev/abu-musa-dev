@@ -110,7 +110,6 @@
 +                   └─ Applied clean-code principles & performance optimization
 ```
  
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D7377&height=2&width=100%25"/>
 ## 🌟 Client Feedback
  
 <table width="100%">
@@ -130,6 +129,5 @@
   </tr>
 </table>
 <p align="center"><sub>— Verified feedback from Upwork & Fiverr clients</sub></p>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D7377&height=2&width=100%25"/>
 
 
