@@ -38,17 +38,9 @@
 
 I'm a **Full-Stack MERN Developer** based in Bangladesh, building production-grade web applications for startups and businesses across the **US and Canada**. I specialize in turning ideas into fast, scalable, and secure products — from database schema to pixel-perfect UI.
 
-```javascript
-const abuMusa = {
-  role: "Full-Stack Developer (MERN)",
-  based_in: "Bangladesh 🇧🇩",
-  working_with: "Clients & Teams in USA 🇺🇸 / Canada 🇨🇦",
-  stack: ["React", "Node.js", "Express.js", "MongoDB", "Next.js", "TypeScript"],
-  currentFocus: "Scalable SaaS apps & high-conversion web platforms",
-  availability: "Full-time / Part-time / Contract — Remote",
-  responseTime: "< 24 hours"
-};
-```
+<div align="center">
+  <img src="./assets/abu-musa-code-card.svg" alt="Abu Musa code snippet" width="100%"/>
+</div>
 
 - 🔭 **Currently:** Open to full-time remote roles and long-term freelance contracts with US/Canada companies.
 - ⚡ **Core Strength:** Backend architecture, REST API design, database optimization, and clean scalable frontend systems.
@@ -125,18 +117,9 @@ const abuMusa = {
 
 ## 💼 Professional Experience
 
-```
-2026 – Present    Software Engineer @ Softvenengec Agency
-                  ├─ Leading full-stack development for international client projects
-                  ├─ Architecting scalable REST APIs & modular frontend systems
-                  ├─ Building secure MERN + Next.js applications for production use
-                  └─ Collaborating in Agile sprints with cross-functional teams
-
-Jul – Oct 2024    Trainee Software Engineer @ JST Services Bangladesh
-                  ├─ Built responsive React components & Node.js backend services
-                  ├─ Integrated frontend layouts with RESTful APIs
-                  └─ Applied clean-code principles & performance optimization
-```
+<div align="center">
+  <img src="./assets/professional-experience-card.svg" alt="Abu Musa professional experience" width="100%"/>
+</div>
 
 <br/>
 
