@@ -127,11 +127,9 @@ const abuMusa = {
 
 <br/>
 
-<h2 align="center"><font color="#A4FF00">💼 Professional Experience</font></h2>
+## 💼 Professional Experience
 
-<div align="center">
-
-diff
+```diff
 + 2026 – Present    Software Engineer @ Softvenengec Agency
 +                   ├─ Leading full-stack development for international client projects
 +                   ├─ Architecting scalable REST APIs & modular frontend systems
@@ -142,40 +140,27 @@ diff
 +                   ├─ Built responsive React components & Node.js backend services
 +                   ├─ Integrated frontend layouts with RESTful APIs
 +                   └─ Applied clean-code principles & performance optimization
+```
 
 ## 🌟 Client Feedback
 
 <div align="center">
 <table>
   <tr>
-    <td width="33%" align="center">⭐⭐⭐⭐⭐<br/><i>"Delivered ahead of schedule with excellent communication throughout."</i></td>
-    <td width="33%" align="center">⭐⭐⭐⭐⭐<br/><i>"Understood our requirements instantly and wrote clean, maintainable code."</i></td>
-    <td width="33%" align="center">⭐⭐⭐⭐⭐<br/><i>"Great overlap with our US team hours — felt like an in-house dev."</i></td>
+    <td width="33%" align="center">
+      ⭐⭐⭐⭐⭐<br/>
+      <i>"Delivered ahead of schedule with excellent communication throughout."</i>
+    </td>
+    <td width="33%" align="center">
+      ⭐⭐⭐⭐⭐<br/>
+      <i>"Understood our requirements instantly and wrote clean, maintainable code."</i>
+    </td>
+    <td width="33%" align="center">
+      ⭐⭐⭐⭐⭐<br/>
+      <i>"Great overlap with our US team hours — felt like an in-house dev."</i>
+    </td>
   </tr>
 </table>
+
 <sub>— Verified feedback from Upwork & Fiverr clients</sub>
-</div>
-
-<br/>
-
-## 🤝 Why Work With Me
-
-<div align="center">
-
-| 🌍 Timezone-Friendly | ⚡ Agile & Fast | ✅ Quality First | 🔒 Reliable |
-| :---: | :---: | :---: | :---: |
-| 4+ hrs daily overlap with EST / PST | Sprint-ready, quick iteration cycles | Documented, tested, maintainable code | On-time delivery, clear communication |
-
-</div>
-
-<br/>
-
-<div align="center">
-  <h2>📫 Let's Build Something Amazing Together</h2>
-  <p>Open to full-time roles, contract work, and long-term freelance partnerships with US & Canada teams.</p>
-
-  <a href="mailto:abumusa.developer@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-0D7377?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/abu-musa-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://abu-musa.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0D7377?style=for-the-badge&logo=react&logoColor=white" /></a>
-
 </div>
