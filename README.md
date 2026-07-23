@@ -56,18 +56,20 @@
 
 ---
 
+
 ## 📂 Featured Projects
- 
-<table width="100%">
+
+<div align="center">
+<table>
   <tr>
     <td width="50%" valign="top">
       <h3>💳 SaaS Subscription Platform</h3>
       <p>Full-featured SaaS app with subscription billing, multi-tenant architecture, and real-time admin dashboards — built for scale.</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-0D7377?style=flat-square&logo=nextdotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Node.js-0D7377?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-0D7377?style=flat-square&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Stripe-0D7377?style=flat-square&logo=stripe&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
       </p>
       <b>Highlights:</b> Stripe billing integration · JWT auth & role-based access · automated email reports · 40% faster page loads after optimization.
       <br/><br/>
@@ -77,10 +79,10 @@
       <h3>📋 Real-Time Task Manager</h3>
       <p>Collaborative kanban-style project tool with live updates for distributed teams working across timezones.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-0D7377?style=flat-square&logo=react&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Socket.io-0D7377?style=flat-square&logo=socketdotio&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Prisma-0D7377?style=flat-square&logo=prisma&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-0D7377?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
       </p>
       <b>Highlights:</b> Real-time drag-and-drop sync · optimized DB indexing · activity logs & audit trail.
       <br/><br/>
@@ -88,7 +90,9 @@
     </td>
   </tr>
 </table>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D7377&height=2&width=100%25"/>
+</div>
+
+<br/>
 
 
 ## 💼 Professional Experience
