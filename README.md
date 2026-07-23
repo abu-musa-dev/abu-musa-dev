@@ -1,15 +1,10 @@
-<!-- ============================================= -->
-<!--   ABU MUSA — GITHUB PROFILE README            -->
-<!--   Brand Color: #0D7377                        -->
-<!-- ============================================= -->
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D7377,100:14FFEC&height=280&section=header&text=Abu%20Musa&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20Remote%20%7C%20Open%20to%20US%20%26%20Canada&descAlignY=55&descAlign=50&descColor=ffffff" alt="Abu Musa Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Abu%20Musa&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20MERN%20Stack%20Specialist&descAlignY=55&descAlign=50" alt="Abu Musa Banner" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1200&color=0D7377&center=true&vCenter=true&width=650&lines=Building+Production-Ready+MERN+Applications;4%2B+Hours+Timezone+Overlap+with+US+%2F+Canada;Trusted+by+Clients+on+Upwork+%26+Fiverr;Clean+Code.+Fast+Delivery.+Real+Results." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=11868D&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;MERN+Stack+Expert+%7C+Next.js+Developer;Obsessed+with+Performance+%26+Clean+Code;Turning+Ideas+into+Digital+Reality" alt="Typing SVG" />
   </a>
 
   <br/><br/>
