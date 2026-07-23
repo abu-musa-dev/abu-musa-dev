@@ -34,7 +34,7 @@
 
 <br/>
 
-## 👋 About Me
+## <font color="#A4FF00">👋 About Me</font>
 
 I'm a **Full-Stack MERN Developer** based in Bangladesh, building production-grade web applications for startups and businesses across the **US and Canada**. I specialize in turning ideas into fast, scalable, and secure products — from database schema to pixel-perfect UI.
 
@@ -43,22 +43,33 @@ I'm a **Full-Stack MERN Developer** based in Bangladesh, building production-gra
 ```javascript
 const abuMusa = {
   role: "Full-Stack Developer (MERN)",
-  based_in: "Bangladesh 🇧🇩",
-  working_with: "Clients & Teams in USA 🇺🇸 / Canada 🇨🇦",
-  stack: ["React", "Node.js", "Express.js", "MongoDB", "Next.js", "TypeScript"],
+  basedIn: "Bangladesh 🇧🇩",
+  workingWith: ["USA 🇺🇸", "Canada 🇨🇦"],
+  stack: [
+    "React",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "Next.js",
+    "TypeScript"
+  ],
   currentFocus: "Scalable SaaS apps & high-conversion web platforms",
   availability: "Full-time / Part-time / Contract — Remote",
-  responseTime: "< 24 hours"
+  responseTime: "Within 24 hours"
 };
 ```
 
 </div>
 
+<font color="#A4FF00">
+
 - 🔭 **Currently:** Open to full-time remote roles and long-term freelance contracts with US/Canada companies.
 - ⚡ **Core Strength:** Backend architecture, REST API design, database optimization, and clean scalable frontend systems.
 - 🌱 **Sharpening:** AWS, Docker, and CI/CD pipelines for production deployment.
 - 🤝 **Track Record:** Delivered client projects on Upwork & Fiverr with consistent 5-star communication and on-time delivery.
-- 📫 **Reach Me:** abumusa.developer@gmail.com
+- 📫 **Reach Me:** **abumusa.developer@gmail.com**
+
+</font>
 
 <br/>
 
