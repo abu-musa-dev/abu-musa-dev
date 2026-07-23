@@ -1,40 +1,36 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Abu%20Musa&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20MERN%20Stack%20Specialist&descAlignY=55&descAlign=50" alt="Abu Musa Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D7377,100:14FFEC&height=280&section=header&text=Abu%20Musa&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20MERN%20Stack%20Specialist&descAlignY=55&descAlign=50" alt="Abu Musa Banner" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=11868D&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;MERN+Stack+Expert+%7C+Next.js+Developer;Obsessed+with+Performance+%26+Clean+Code;Turning+Ideas+into+Digital+Reality" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0D7377&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Applications;MERN+Stack+Expert+%7C+Next.js+Developer;Obsessed+with+Performance+%26+Clean+Code;Turning+Ideas+into+Digital+Reality" alt="Typing SVG" />
   </a>
+</div>
 
-  <br/><br/>
+<br/>
 
+<div align="center">
   <a href="https://abu-musa.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0D7377?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/abu-musa-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://drive.google.com/file/d/1tUFIPKYr7nKgmwNYK0fO9ctVYwwmQKUv/view" target="_blank"><img src="https://img.shields.io/badge/Resume-0D7377?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
   <a href="mailto:abumusa.developer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/abu-musa-dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
- 
-
 </div>
 
 <br/>
 
 <!-- ============ AVAILABILITY BANNER ============ -->
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">🟢 <b>Available for Hire</b></td>
-      <td align="center">🌍 <b>Remote — US / Canada Timezones</b></td>
-      <td align="center">⏱ <b>4+ Hrs Daily Overlap (EST/PST)</b></td>
-      <td align="center">💬 <b>Fluent English</b></td>
-    </tr>
-  </table>
+
+| 🟢 Available for Hire | 🌍 Remote — US / Canada | ⏱ 4+ Hrs Daily Overlap (EST/PST) | 💬 Fluent English |
+|:---:|:---:|:---:|:---:|
+
 </div>
 
 <br/>
 
-## <font color="#A4FF00">👋 About Me</font>
+## 👋 About Me
 
 I'm a **Full-Stack MERN Developer** based in Bangladesh, building production-grade web applications for startups and businesses across the **US and Canada**. I specialize in turning ideas into fast, scalable, and secure products — from database schema to pixel-perfect UI.
 
@@ -61,15 +57,11 @@ const abuMusa = {
 
 </div>
 
-<font color="#A4FF00">
-
 - 🔭 **Currently:** Open to full-time remote roles and long-term freelance contracts with US/Canada companies.
 - ⚡ **Core Strength:** Backend architecture, REST API design, database optimization, and clean scalable frontend systems.
 - 🌱 **Sharpening:** AWS, Docker, and CI/CD pipelines for production deployment.
 - 🤝 **Track Record:** Delivered client projects on Upwork & Fiverr with consistent 5-star communication and on-time delivery.
 - 📫 **Reach Me:** **abumusa.developer@gmail.com**
-
-</font>
 
 <br/>
 
@@ -153,6 +145,8 @@ const abuMusa = {
 +                   └─ Applied clean-code principles & performance optimization
 ```
 
+<br/>
+
 ## 🌟 Client Feedback
 
 <div align="center">
@@ -174,4 +168,19 @@ const abuMusa = {
 </table>
 
 <sub>— Verified feedback from Upwork & Fiverr clients</sub>
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abu-musa-dev&show_icons=true&theme=transparent&hide_border=true&title_color=0D7377&icon_color=0D7377&text_color=333333" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abu-musa-dev&theme=transparent&hide_border=true&ring=0D7377&fire=0D7377&currStreakLabel=0D7377" alt="GitHub Streak" height="165"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D7377,100:14FFEC&height=120&section=footer"/>
 </div>
