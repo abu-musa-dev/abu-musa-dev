@@ -131,7 +131,7 @@ const abuMusa = {
 
 <div align="center">
 
-```diff
+diff
 + 2026 – Present    Software Engineer @ Softvenengec Agency
 +                   ├─ Leading full-stack development for international client projects
 +                   ├─ Architecting scalable REST APIs & modular frontend systems
