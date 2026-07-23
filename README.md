@@ -14,14 +14,13 @@
 
   <!-- Social Badges & Resume -->
 <a href="https://abu-musa.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/PORTFOLIO-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-A4FF00?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=A4FF00&color=A4FF00" alt="Portfolio"/>
 </a>
-<a href="https://www.linkedin.com/in/abu-musa-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://drive.google.com/file/d/1tUFIPKYr7nKgmwNYK0fO9ctVYwwmQKUv/view" target="_blank"><img src="https://img.shields.io/badge/Resume-36BCF7?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
-<a href="mailto:abumusa.developer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/abu-musa-dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-
----
+ <a href="https://www.linkedin.com/in/abu-musa-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://drive.google.com/file/d/1tUFIPKYr7nKgmwNYK0fO9ctVYwwmQKUv/view" target="_blank"><img src="https://img.shields.io/badge/Resume-36BCF7?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
+  <a href="mailto:abumusa.developer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/abu-musa-dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</div>
 
 ### **About Me**
  Hi there! I'm **Abu Musa**, a results-driven **Full-Stack Developer** from Bangladesh 🇧🇩. I specialize in building **high-performance, scalable SaaS applications** using the MERN stack and Next.js.
