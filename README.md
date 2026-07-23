@@ -98,13 +98,13 @@
 ## 💼 Professional Experience
  
 ```ini
-+ 2026 – Present    Software Engineer @ Softvenengec Agency
+ 2026 – Present    Software Engineer @ Softvenengec Agency
 +                   ├─ Leading full-stack development for international client projects
 +                   ├─ Architecting scalable REST APIs & modular frontend systems
 +                   ├─ Building secure MERN + Next.js applications for production use
 +                   └─ Collaborating in Agile sprints with cross-functional teams
  
-+ Jul – Oct 2024    Trainee Software Engineer @ JST Services Bangladesh
+ Jul – Oct 2024    Trainee Software Engineer @ JST Services Bangladesh
 +                   ├─ Built responsive React components & Node.js backend services
 +                   ├─ Integrated frontend layouts with RESTful APIs
 +                   └─ Applied clean-code principles & performance optimization
