@@ -14,8 +14,7 @@
   <a href="https://drive.google.com/file/d/1tUFIPKYr7nKgmwNYK0fO9ctVYwwmQKUv/view" target="_blank"><img src="https://img.shields.io/badge/Resume-0D7377?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
   <a href="mailto:abumusa.developer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/abu-musa-dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.upwork.com/" target="_blank"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/></a>
-  <a href="https://www.fiverr.com/" target="_blank"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/></a>
+ 
 
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=abu-musa-dev&color=0D7377&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
