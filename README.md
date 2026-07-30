@@ -1,26 +1,35 @@
 <!-- Header Banner -->
-<div align="left">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Abu%20Musa&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20MERN%20Stack%20Specialist&descAlignY=55&descAlign=50" alt="Abu Musa Banner" width="100%"/>
 </div>
 
+<br/>
+
 <div align="center">
+  <!-- Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;MERN+Stack+Expert+%7C+Next.js+Developer;Obsessed+with+Performance+%26+Clean+Code;Turning+Ideas+into+Digital+Reality" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Applications;MERN+Stack+Expert+%7C+Next.js+Developer;Obsessed+with+Performance+%26+Clean+Code;Turning+Ideas+into+Digital+Reality" alt="Typing SVG" style="max-width: 100%; height: auto;" />
   </a>
 
-  <br/>
+  <br/><br/>
 
- <!-- Social Badges & Resume (With Available for Hire Badge) -->
- <!-- Social Badges & Resume -->
-<a href="mailto:abumusa.developer@gmail.com"><img src="https://img.shields.io/badge/VERIFIED-AVAILABLE_FOR_HIRE-47A248?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=1DA1F2" alt="Available for Hire"/></a> <a href="https://abu-musa.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-12868E?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/></a> <a href="https://www.linkedin.com/in/abu-musa-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://drive.google.com/file/d/1tUFIPKYr7nKgmwNYK0fO9ctVYwwmQKUv/view" target="_blank"><img src="https://img.shields.io/badge/Resume-36BCF7?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a> <a href="mailto:abumusa.developer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://github.com/abu-musa-dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <!-- Social Badges & Resume -->
+  <a href="mailto:abumusa.developer@gmail.com"><img src="https://img.shields.io/badge/VERIFIED-AVAILABLE_FOR_HIRE-47A248?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=1DA1F2" alt="Available for Hire"/></a>
+  <a href="https://abu-musa.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-12868E?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/abu-musa-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://drive.google.com/file/d/1tUFIPKYr7nKgmwNYK0fO9ctVYwwmQKUv/view" target="_blank"><img src="https://img.shields.io/badge/Resume-36BCF7?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
+  <a href="mailto:abumusa.developer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/abu-musa-dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </div>
 
-### **About Me**
- Hi there! I'm **Abu Musa**, a results-driven **Full-Stack Developer** from Bangladesh 🇧🇩. I specialize in building **high-performance, scalable SaaS applications** using the MERN stack and Next.js.
+<br/>
 
--  **Currently:** Open for new opportunities & contributing to Open Source projects.
--  **Learning:** Cloud Architecture (AWS), Docker & Kubernetes for DevOps practices.
--  **Core Strength:** Backend Optimization, Database Schema Design & Scalable Architecture.
+### 👨‍💻 **About Me**
+Hi there! I'm **Abu Musa**, a results-driven **Full-Stack Developer** from Bangladesh 🇧🇩. I specialize in building **high-performance, scalable SaaS applications** using the MERN stack and Next.js.
+
+- 🔭 **Currently:** Open for new opportunities & contributing to Open Source projects.
+- 📚 **Learning:** Cloud Architecture (AWS), Docker & Kubernetes for DevOps practices.
+- ⚡ **Core Strength:** Backend Optimization, Database Schema Design & Scalable Architecture.
 
 ---
 
@@ -49,56 +58,54 @@
 
 ---
 
-
 ## 📂 Featured Projects
 
+<!-- Project 1 -->
 <div align="left">
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💳 SaaS Subscription Platform</h3>
-      <p>Full-featured SaaS app with subscription billing, multi-tenant architecture, and real-time admin dashboards — built for scale.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
-      </p>
-      <b>Highlights:</b> Stripe billing integration · JWT auth & role-based access · automated email reports · 40% faster page loads after optimization.
-      <br/><br/>
-      <a href="https://your-project-link.com" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-12868E?style=flat-square" alt="Live Demo"/></a> <a href="https://github.com/your-username/your-repo-name" target="_blank"><img src="https://img.shields.io/badge/_Source_Code-20232A?style=flat-square&logo=github&logoColor=white" alt="Source Code"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📋 Real-Time Task Manager</h3>
-      <p>Collaborative kanban-style project tool with live updates for distributed teams working across timezones.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-      </p>
-      <b>Highlights:</b> Real-time drag-and-drop sync · optimized DB indexing · activity logs & audit trail.
-      <br/><br/>
-     <a href="https://your-project-link.com" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-12868E?style=flat-square" alt="Live Demo"/></a> <a href="https://github.com/your-username/your-repo-name" target="_blank"><img src="https://img.shields.io/badge/_Source_Code-20232A?style=flat-square&logo=github&logoColor=white" alt="Source Code"/></a>
-    </td>
-  </tr>
-</table>
+  <h3>💳 SaaS Subscription Platform</h3>
+  <p>Full-featured SaaS app with subscription billing, multi-tenant architecture, and real-time admin dashboards — built for scale.</p>
+  <p>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
+  </p>
+  <p><b>Highlights:</b> Stripe billing integration · JWT auth & role-based access · automated email reports · 40% faster page loads after optimization.</p>
+  <a href="https://your-project-link.com" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-12868E?style=flat-square" alt="Live Demo"/></a> 
+  <a href="https://github.com/your-username/your-repo-name" target="_blank"><img src="https://img.shields.io/badge/_Source_Code-20232A?style=flat-square&logo=github&logoColor=white" alt="Source Code"/></a>
+</div>
+
+<br/>
+<hr/>
+<br/>
+
+<!-- Project 2 -->
+<div align="left">
+  <h3>📋 Real-Time Task Manager</h3>
+  <p>Collaborative kanban-style project tool with live updates for distributed teams working across timezones.</p>
+  <p>
+    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+    <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  </p>
+  <p><b>Highlights:</b> Real-time drag-and-drop sync · optimized DB indexing · activity logs & audit trail.</p>
+  <a href="https://your-project-link.com" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-12868E?style=flat-square" alt="Live Demo"/></a> 
+  <a href="https://github.com/your-username/your-repo-name" target="_blank"><img src="https://img.shields.io/badge/_Source_Code-20232A?style=flat-square&logo=github&logoColor=white" alt="Source Code"/></a>
 </div>
 
 <br/>
 
-
 ## 💼 Professional Experience
 
 ```ini
- 2026 – Present    Software Engineer @ Softvenengec Agency
-                   ├─ Leading full-stack development for international client projects
-                   ├─ Architecting scalable REST APIs & modular frontend systems
-                   ├─ Building secure MERN + Next.js applications for production use
-                   └─ Collaborating in Agile sprints with cross-functional teams
+[2026 – Present] Software Engineer @ Softvenengec Agency
+ ├─ Leading full-stack development for international client projects
+ ├─ Architecting scalable REST APIs & modular frontend systems
+ ├─ Building secure MERN + Next.js applications for production
+ └─ Collaborating in Agile sprints with cross-functional teams
 
- Jul – Oct 2024    Trainee Software Engineer @ JST Services Bangladesh
-                   ├─ Built responsive React components & Node.js backend services
-                   ├─ Integrated frontend layouts with RESTful APIs
-                   └─ Applied clean-code principles & performance optimization
-
+[Jul – Oct 2024] Trainee Software Engineer @ JST Services Bangladesh
+ ├─ Built responsive React components & Node.js backend services
+ ├─ Integrated frontend layouts with RESTful APIs
+ └─ Applied clean-code principles & performance optimization
