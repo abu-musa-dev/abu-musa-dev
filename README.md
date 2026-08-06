@@ -17,12 +17,12 @@
 
 ---
 
-### 👨‍💻 **About Me**
+### **About Me**
 Hi there! I'm **Abu Musa**, a results-driven **Full-Stack Developer** from Bangladesh 🇧🇩. I specialize in building **high-performance, scalable SaaS applications** using the MERN stack and Next.js.
 
-- 🔭 **Currently:** Open for new opportunities & contributing to Open Source projects.
-- 📚 **Learning:** Cloud Architecture (AWS), Docker & Kubernetes for DevOps practices.
-- ⚡ **Core Strength:** Backend Optimization, Database Schema Design & Scalable Architecture.
+-  **Currently:** Open for new opportunities & contributing to Open Source projects.
+-  **Learning:** Cloud Architecture (AWS), Docker & Kubernetes for DevOps practices.
+-  **Core Strength:** Backend Optimization, Database Schema Design & Scalable Architecture.
 
 ---
 
