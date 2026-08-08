@@ -4,9 +4,9 @@
 </div>
 
 <!-- Typing SVG -->
-<p align="left">
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=true&width=430&lines=Building+Scalable+Web+Applications;MERN+Stack+Expert+%7C+Next.js+Developer;Obsessed+with+Performance+%26+Clean+Code;Turning+Ideas+into+Digital+Reality" alt="Typing SVG" width="90%" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=true&width=430&lines=Building+Scalable+Web+Applications;MERN+Stack+Expert+%7C+Next.js+Developer;Obsessed+with+Performance+%26+Clean+Code;Turning+Ideas+into+Digital+Reality" alt="Typing SVG" width="95%" />
   </a>
 </p>
 
