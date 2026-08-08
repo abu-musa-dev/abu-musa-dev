@@ -20,9 +20,9 @@
 ### **About Me**
 Hi there! I'm **Abu Musa**, a results-driven **Full-Stack Developer** from Bangladesh 🇧🇩. I specialize in building **high-performance, scalable SaaS applications** using the MERN stack and Next.js.
 
--  **Currently:** Open for new opportunities & contributing to Open Source projects.
--  **Learning:** Cloud Architecture (AWS), Docker & Kubernetes for DevOps practices.
--  **Core Strength:** Backend Optimization, Database Schema Design & Scalable Architecture.
+- 🚀 **Currently:** Open for new opportunities & contributing to Open Source projects.
+- 📚 **Learning:** Cloud Architecture (AWS), Docker & Kubernetes for DevOps practices.
+- 💡 **Core Strength:** Backend Optimization, Database Schema Design & Scalable Architecture.
 
 ---
 
@@ -41,33 +41,52 @@ Hi there! I'm **Abu Musa**, a results-driven **Full-Stack Developer** from Bangl
 
 ## 📂 Featured Projects
 
-### 💳 SaaS Subscription Platform
-Full-featured SaaS app with subscription billing, multi-tenant architecture, and real-time admin dashboards — built for scale.
-
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
-</p>
-
-**Highlights:** Stripe billing integration · JWT auth & role-based access · automated email reports · 40% faster page loads after optimization.
-
-<p>
-  <a href="https://your-project-link.com" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-12868E?style=flat-square" alt="Live Demo"/></a> <a href="https://github.com/your-username/your-repo-name" target="_blank"><img src="https://img.shields.io/badge/_Source_Code-20232A?style=flat-square&logo=github&logoColor=white" alt="Source Code"/></a>
-</p>
-
----
-
-### 📋 Real-Time Task Manager
-Collaborative kanban-style project tool with live updates for distributed teams working across timezones.
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-</p>
-
-**Highlights:** Real-time drag-and-drop sync · optimized DB indexing · activity logs & audit trail.
-
-<p>
-  <a href="https://your-project-link.com" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-12868E?style=flat-square" alt="Live Demo"/></a> <a href="https://github.com/your-username/your-repo-name" target="_blank"><img src="https://img.shields.io/badge/_Source_Code-20232A?style=flat-square&logo=github&logoColor=white" alt="Source Code"/></a>
-</p>
+<table width="100%">
+  <tr>
+    <!-- Project 1 -->
+    <td width="50%" valign="top">
+      <h3 align="center">💳 SaaS Subscription Platform</h3>
+      <p align="center">Full-featured SaaS app with subscription billing, multi-tenant architecture, and real-time admin dashboards — built for scale.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
+      </p>
+      <ul>
+        <li>Stripe billing integration</li>
+        <li>JWT auth & role-based access</li>
+        <li>Automated email reports</li>
+        <li>40% faster page loads after optimization</li>
+      </ul>
+      <p align="center">
+        <a href="https://your-project-link.com" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-12868E?style=flat-square" alt="Live Demo"/></a>
+        <a href="https://github.com/your-username/your-repo-name" target="_blank"><img src="https://img.shields.io/badge/_Source_Code-20232A?style=flat-square&logo=github&logoColor=white" alt="Source Code"/></a>
+      </p>
+    </td>
+    <!-- Project 2 -->
+    <td width="50%" valign="top">
+      <h3 align="center">📋 Real-Time Task Manager</h3>
+      <p align="center">Collaborative kanban-style project tool with live updates for distributed teams working across timezones.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      </p>
+      <ul>
+        <li>Real-time drag-and-drop sync</li>
+        <li>Optimized DB indexing</li>
+        <li>Activity logs & audit trail</li>
+      </ul>
+      <br/>
+      <p align="center">
+        <a href="https://your-project-link.com" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-12868E?style=flat-square" alt="Live Demo"/></a>
+        <a href="https://github.com/your-username/your-repo-name" target="_blank"><img src="https://img.shields.io/badge/_Source_Code-20232A?style=flat-square&logo=github&logoColor=white" alt="Source Code"/></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
